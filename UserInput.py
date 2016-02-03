@@ -55,6 +55,6 @@ def main():
     a = strip_html_tags(clean_file)
     print(a)
     clean_file.close()
-
+#jhgfds
 if __name__ == '__main__':
     main()
