@@ -1,0 +1,1947 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Used Audi A4 Ireland | Cars For Sale on CBG.ie</title> 
+
+
+<META name="keywords" lang="en-us" content="cars Ireland, cars for sale, cars for sale Ireland, used cars for sale, used cars for sale Ireland, motoring news, sell your car, car buyers guide, cbg, Freephone from browser, car reviews," />
+<META name="description" content="Find Used Audi A4 for sale in Ireland. Browse through the list of available used Audi A4 cars in Ireland on Car Buyers Guide, Ireland's #1 used car website." />
+        
+        
+        
+<link rel="canonical" href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012" />        
+    <link rel="next" href="/10" />        
+        
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<!-- css -->
+
+<link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/style.css?v=3.72"/>
+
+
+    <!--used cars css -->
+    <link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/used_cars3.css?v=1.26"/>   
+    <!-- end css -->
+<link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/cars_list.css?v=1.1"/> 
+<!-- Tablet optimization -->
+<link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/tablet.css"/>
+
+<script type='text/javascript' src='http://www.cbg.ie/js/jquery-1.9.1.min.js'></script>
+
+
+<script type='text/javascript' src='http://www.cbg.ie/js/jquery-ui-1.10.0.custom.min.js'></script>
+
+
+<!-- custom loaded scripts -->
+<!-- end custom loaded scripts -->
+<!-- scripts -->
+ <script>
+    function myIsIE(){
+        if (navigator.userAgent.indexOf('MSIE')>-1){
+            return true;
+        }else{
+            return false;
+        }
+    }
+    $(function() {
+        $( "#locations" ).tabs({ show: { effect: "blind", duration: 500 } });
+        $('#locations > ul > li').each(function(e){
+            if((e+3) % 4 == 0){
+                $(this).addClass('second');
+            }
+            else if((e+2) % 4 == 0){
+                $(this).addClass('last');
+            }
+            
+        });        
+    });
+</script>
+<script async type='text/javascript' src='/js/prettyPhoto/prettyPhoto3.1.6/js/jquery.prettyPhoto.js'></script>
+<link rel="stylesheet" type='text/css' href="/js/prettyPhoto/prettyPhoto3.1.6/css/prettyPhoto.css"/>
+<script async src="http://www.cbg.ie/js/jquery.prettyGallery.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" href="http://www.cbg.ie/css/prettyGallery.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+<script async src="http://www.cbg.ie/js/cars.js?v=1.42" type="text/javascript" charset="utf-8"></script>
+
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4798478-1']);
+  _gaq.push(['_setDomainName', 'cbg.ie']);
+  _gaq.push(['_trackPageview', '/used_cars/audi/a4/all/0/0/2012']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+    
+    function track_event(category, action, comment)
+    {
+        var ctg = (typeof category  === "undefined") ?   "Other"   : category;
+        var act = (typeof action    === "undefined") ?   "Click"   : action;
+        var com = (typeof comment   === "undefined") ?   "Other"   : comment;
+        
+                
+        
+        _gaq.push(['_trackEvent', ctg, act, com]);
+    }
+    
+</script>
+
+    
+
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+</head>
+
+<body>
+    <script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/179733492/CBG_Used_Wallpaper', [1, 1], 'div-gpt-ad-1441036667905-0').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Billboard', [970, 250], 'div-gpt-ad-1441036667905-1').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_LB', [728, 90], 'div-gpt-ad-1441036667905-2').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_MPU', [300, 250], 'div-gpt-ad-1441036667905-3').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Sky', [[160, 600], [120, 600]], 'div-gpt-ad-1441036667905-5').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Top_Banner', [728, 90], 'div-gpt-ad-1441036667905-6').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_Used_MPU', [300, 250], 'div-gpt-ad-1441036667905-7').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setTargeting('cbgmodel', ['Audi A4']);
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZ4M4H"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NZ4M4H');</script>
+    <!-- End Google Tag Manager -->
+<div id="page">
+    <div id='div-gpt-ad-1441036667905-1' style='height:250px; width:970px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-1'); });
+</script>
+</div>   
+    <header>
+        <div id="top_menu">
+            <nav>
+                <ul>
+                    <li style="display:none;"><a href="#" title="Cars">Cars</a></li>
+                    <li style="display:none;"><a href="" title="Commercials">Commercials</a></li>
+                    <li style="display:none;"><a href="#" title="Boats / Leisure">Boats / Leisure</a></li>
+                    <li style="display:none;"><a href="#" title="Classics">Classics</a></li>
+                                                        </ul>
+            </nav>
+        </div>
+        <div id="branding">
+            <a href="http://www.cbg.ie/" title="car buyers guide ireland"><img src="http://www.cbg.ie/images/logo.png" alt="car buyers guide ireland"/></a>
+      <a class="button place_ad_header red" href="http://www.cbg.ie/users_ads/add/new" title="Place FREE Advert" rel="nofollow" >Place FREE Advert</a>
+        </div>
+        
+        <aside>            
+            <div id="top_full"></div>
+            <!-- /179733492/CBG_UsedCars_Top_Banner -->
+<div id='div-gpt-ad-1441036667905-6' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6'); });
+</script>
+</div>        </aside>
+        <div id="sticky_nav">  
+          <div class="sticky_inner_nav">
+          <nav id="main_nav">
+            <ul>
+                                <li class="home"><a href="http://www.cbg.ie/" title="car buyers guide ireland"><img src="http://www.cbg.ie/images/navBarHome.gif" alt="car buyers guide ireland"/></a></li>
+                                <li><a href="http://www.cbg.ie/used-cars-for-sale" title="Used Cars">Used Cars</a></li>
+                <li><a href="http://www.cbg.ie/new-cars-for-sale" title="New Cars">New Cars</a></li>
+                <li><a href="http://www.cbg.ie/wanted-cars" title="Wanted Cars">Wanted Cars</a></li>
+                                <li class="submenu">
+                                    <a href="http://www.cbg.ie/dealer-locator" title="Car Dealers">Car Dealers</a>                                    
+                                        <ul style="width:250px;">
+                                            <li><a href="http://www.cbg.ie/aa-dealers">AA Dealers</a></li>                                            
+                                            <li><a href="http://www.cbg.ie/simi-dealers">SIMI Dealers</a></li>
+                                            <li><a href="http://www.cbg.ie/bluestone-dealers">Bluestone Dealers</a></li>
+                                                                                        
+                                            <li><a href="http://www.cbg.ie/cars-dealers">Cars Dealers</a></li>
+                                            <li><a href="http://www.vanbuyersguide.ie/Vans-And-Commercials-Dealers-Ireland">Commercials Dealers</a></li>
+                                            
+                                                
+                                        </ul>
+                                </li>                                
+                                                                    <li class="submenu"><a href="#" title="Car Reviews">Car Reviews</a>
+                                            <ul style="width:250px;">
+                                                    <li><a href="http://www.cbg.ie/used-car-review" title="Users reviews">Users Reviews</a></li>
+                                                    <li><a href="http://www.cbg.ie/cbg-official-reviews/all-makes/all-models/new-cars-reviews/" title="Official New car reviews">Official New car reviews</a></li>
+                                                    <li><a href="http://www.cbg.ie/cbg-official-reviews/all-makes/all-models/used-cars-reviews/" title="Official Used car reviews">Official Used car reviews</a></li>                                                    
+                                                    <li><a href="http://www.cbg.ie/podcasts" title="CBG Podcasts">CBG Podcasts</a></li>                                                                                                        
+                                            </ul>
+                                    </li>                                                
+                                                                                                                                                                        
+
+    <li class="submenu">
+        <a href="http://www.cbg.ie/blog" title="Blog">Blog</a>                                    
+        <ul style="width:250px;">
+            <li><a href="http://www.cbg.ie/motoring-news-ireland" title="News">News</a></li>                                           
+        </ul>
+    </li>                              
+                                
+
+    <li class="submenu"><a href="#" title="#">Partners</a>
+        <ul style="width:200px;">
+                        <li><a href="http://www.cbg.ie/blacklion" title="Blacklion Tyres">Blacklion Tyres</a></li>
+            <li><a href="http://www.cbg.ie/bluestone-dealers" title="Bluestone Finance">Bluestone Finance</a></li>
+            <li><a href="http://www.cbg.ie/car-history-check" title="History Check">History Check</a></li>
+            <li><a href="http://www.cbg.ie/voicegrid" title="VoiceGrid">VoiceGrid</a></li>
+            <li><a href="http://www.cbg.ie/a2z" title="A-Z of Motoring">A-Z of Motoring</a></li>                                                
+            <li><a target="_blank" href="http://www.ism.ie">Driving lessons</a></li>
+            <li><a href="http://www.cbg.ie/theory-test">ISM Theory Test</a></li>
+            <li><a href="http://www.cbg.ie/car-protect-gap-insurance" title="GAP Insurance">GAP Insurance</a></li>
+            <li><a  title="Car Warranty Quote" href="http://www.cbg.ie/car-protect-warranty">Warranties</a></li>
+            <li><a target="_blank" href="http://www.cbg.ie/pay-less-direct-insurance">Car Insurance</a></li>
+                    </ul>
+    </li>
+                                            
+                                            <li><a href="http://www.vanbuyersguide.ie" >Vans</a></li>
+                                                                    
+                                    <li class="submenu login_menu_head"><a href="http://www.cbg.ie/users#login_user" title="#">Login</a>
+                                            <ul style="width:250px;">
+                                                <li><a href="/users">My Car Alerts</a></li>
+                                                <!--
+                                                    <li><a href="/users">Create Car Alert</a></li>
+                                                -->
+                                                <li><a href="/users">Sell Your Car</a></li>
+                                                <li><a href="/users">Bump Your Package</a></li>
+                                                <li><a href="/users">Edit Your Account</a></li>
+                                            </ul>
+                                        </li>     
+                                        <li><a href="http://www.cbg.ie/mobile" title="Mobile">Mobile</a></li>
+                                        <li><a href="https://www.facebook.com/CBG.ie" title="Facebook CBG.IE" style="padding: initial;" target="_blank"><div class="social_menu_box social_menu_facebook"></div></a></li>
+                                        <li><a href="https://twitter.com/cbgie" title="Twitter CBG.IE" style="padding: initial;" target="_blank"><div class="social_menu_box social_menu_twitter"></div></a></li>
+                                                                                                
+            </ul>
+        </nav>
+        <ul class="tabrow">
+            <li><a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" target="_blank" title="AA vehicle inspection">AA Inspection</a></li>
+                        <li><a href="http://www.cbg.ie/pay-less-direct-insurance-tab">Car insurance</a></li>            
+        </ul>
+        </div> 
+        </div>             
+    </header>   
+        
+        
+        
+    <div class="content">
+
+                    <div class="global_breadcrumbs">                 
+                                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                        <a href="http://www.cbg.ie/" itemprop="url">
+                        <span itemprop="title">Home</span>
+                    </a>
+                                         › </div>  
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                        <a href="/used-cars-for-sale" itemprop="url">
+                        <span itemprop="title">Used Cars</span>
+                    </a>
+                                         › </div>  
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                        <a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012" itemprop="url">
+                        <span itemprop="title">Used Audi A4 models</span>
+                    </a>
+                                        </div>  
+                                
+            </div>
+                        <div class="left" style="width:730px;">
+    <h1>Used Audi A4  in Ireland</h1>
+        
+    <aside class="page_options simi_option">
+        <div class="block_options">
+            <strong>Sort by:</strong>
+            <form name="frmSort" id="frmSort" method="post">
+                <select name="sort" id="sort" onchange="$('#frmSort').submit()">
+<option value="-1">Default Sort</option>
+<option value="Price ASC">Lowest Price</option>
+<option value="Price ASC NO_POA">Lowest Price (No POA)</option>
+<option value="Price DESC">Highest Price</option>
+<option value="Year ASC">Oldest Car</option>
+<option value="Year DESC">Newest Car</option>
+</select>                  
+            </form>
+            <span class="sep"> | </span>
+        </div>
+        <div class="block_options">
+            <strong>Per page:</strong>
+            <a href="http://www.cbg.ie/used_cars/per_page/10" class="PerPage">10</a>
+            <a href="http://www.cbg.ie/used_cars/per_page/50" class="PerPage">50</a>
+            <a href="http://www.cbg.ie/used_cars/per_page/100" class="PerPage">100</a>
+            <span class="sep"> | </span>
+        </div>                                                     
+        <div class="buttons">
+            <div class="next">
+                <a href="javascript:;"  id="rafine_search" title="Rafine Search">Refine Search &#x25bc;</a>
+            </div>
+
+        </div>  
+
+        <script>
+            $("#rafine_search").click(function () {
+                $(".simi_search").slideToggle(500, function () {
+                    $("#rafine_search").text($(this).is(':visible') ? "Hide Search Option" : "Refine Search");
+                    $("#rafine_search").addClass($(this).is(':visible') ? "hide_rafine" : "show_rafine");
+                    $("#rafine_search").removeClass($(this).is(':visible') ? "show_rafine" : "hide_rafine");
+                });
+            });
+
+        </script>
+
+    </aside>
+    <div style="display:none;" class="filter_block simi_search">
+
+        <form action="" method="post">
+            <div class="col_form">
+                <span class="title">Make/Model</span>
+                <select name="brand_id" id="brand_id" class="cbg_searchSelect">
+                    <option value="0">Select Make</option>
+                                                                    <option  value="18">Alfa Romeo</option>
+                                                                    <option  value="37">Aston Martin</option>
+                                                                    <option  selected="selected"  value="43">Audi</option>
+                                                                    <option  value="77">Bentley</option>
+                                                                    <option  value="90">BMW</option>
+                                                                    <option  value="157">Chevrolet</option>
+                                                                    <option  value="163">Chrysler</option>
+                                                                    <option  value="166">Citroen</option>
+                                                                    <option  value="3668">Dacia</option>
+                                                                    <option  value="206">Daewoo</option>
+                                                                    <option  value="211">Daihatsu</option>
+                                                                    <option  value="1455">Datsun</option>
+                                                                    <option  value="289">Ferrari</option>
+                                                                    <option  value="295">Fiat</option>
+                                                                    <option  value="313">Ford</option>
+                                                                    <option  value="3671">Gwm</option>
+                                                                    <option  value="3365">Hillman</option>
+                                                                    <option  value="400">Honda</option>
+                                                                    <option  value="412">Hummer</option>
+                                                                    <option  value="423">Hyundai</option>
+                                                                    <option  value="440">Isuzu</option>
+                                                                    <option  value="447">Jaguar</option>
+                                                                    <option  value="453">Jeep</option>
+                                                                    <option  value="482">Kia</option>
+                                                                    <option  value="515">Lamborghini</option>
+                                                                    <option  value="521">Land Rover</option>
+                                                                    <option  value="541">Lexus</option>
+                                                                    <option  value="552">Lincoln</option>
+                                                                    <option  value="582">Maserati</option>
+                                                                    <option  value="587">Mazda</option>
+                                                                    <option  value="597">Mercedes</option>
+                                                                    <option  value="609">MG</option>
+                                                                    <option  value="613">MINI</option>
+                                                                    <option  value="619">Mitsubishi</option>
+                                                                    <option  value="1533">Morgan</option>
+                                                                    <option  value="664">Nissan</option>
+                                                                    <option  value="678">Opel</option>
+                                                                    <option  value="1966">Perodua</option>
+                                                                    <option  value="701">Peugeot</option>
+                                                                    <option  value="717">Porsche</option>
+                                                                    <option  value="759">Renault</option>
+                                                                    <option  value="782">Rolls Royce</option>
+                                                                    <option  value="786">Rover</option>
+                                                                    <option  value="794">Saab</option>
+                                                                    <option  value="823">Seat</option>
+                                                                    <option  value="854">Skoda</option>
+                                                                    <option  value="860">Smart</option>
+                                                                    <option  value="874">Ssangyong</option>
+                                                                    <option  value="891">Subaru</option>
+                                                                    <option  value="901">Suzuki</option>
+                                                                    <option  value="953">Toyota</option>
+                                                                    <option  value="1423">TVR</option>
+                                                                    <option  value="987">Vauxhall</option>
+                                                                    <option  value="1008">Volkswagen</option>
+                                                                    <option  value="1002">Volvo</option>
+                                    </select>
+
+                <select name="model_id" id="model_id">
+                    <option selected="selected" value="">Select Model</option>
+                                                                                                    <option  value="18014">A1</option>
+                                                                                <option  value="651">A2</option>
+                                                                                <option  value="14">A3</option>
+                                                                                <option  selected="selected"  value="15">A4</option>
+                                                                                <option  value="15884">A5</option>
+                                                                                <option  value="16">A6</option>
+                                                                                <option  value="23151">A7</option>
+                                                                                <option  value="17">A8</option>
+                                                                                <option  value="1917">All Road</option>
+                                                                                <option  value="2619">Coupe</option>
+                                                                                <option  value="145494">Q3</option>
+                                                                                <option  value="18015">Q5</option>
+                                                                                <option  value="13000">Q7</option>
+                                                                                <option  value="4832">Quattro</option>
+                                                                                <option  value="15885">R8</option>
+                                                                                <option  value="1456232">RS3</option>
+                                                                                <option  value="13540">RS4</option>
+                                                                                <option  value="7268">RS6</option>
+                                                                                <option  value="1396">S3</option>
+                                                                                <option  value="1545">S4</option>
+                                                                                <option  value="16148">S5</option>
+                                                                                <option  value="audi-tt-group">TT (All)</option>
+                                                                                <option  value="1456538">&nbsp;&nbsp;&nbsp;&nbsp;TT RS</option>
+                                                                                <option  value="1456915">&nbsp;&nbsp;&nbsp;&nbsp;TTC</option>
+                                                                                <option  value="1456539">&nbsp;&nbsp;&nbsp;&nbsp;TTS</option>
+                                                    
+                                    </select>
+
+            </div>
+            <div class="col_form col_tablet_2">
+                <span class="title">Price</span>
+                <select name="min_price" id="min_price">
+                    <option value="0">Min Price</option>
+                                                                    <option  value="500">500</option>
+                                                                    <option  value="1000">1000</option>
+                                                                    <option  value="2000">2000</option>
+                                                                    <option  value="3000">3000</option>
+                                                                    <option  value="4000">4000</option>
+                                                                    <option  value="5000">5000</option>
+                                                                    <option  value="6000">6000</option>
+                                                                    <option  value="7000">7000</option>
+                                                                    <option  value="8000">8000</option>
+                                                                    <option  value="9000">9000</option>
+                                                                    <option  value="10000">10000</option>
+                                                                    <option  value="15000">15000</option>
+                                                                    <option  value="20000">20000</option>
+                                                                    <option  value="25000">25000</option>
+                                                                    <option  value="30000">30000</option>
+                                                                    <option  value="35000">35000</option>
+                                                                    <option  value="40000">40000</option>
+                                                                    <option  value="45000">45000</option>
+                                                                    <option  value="50000">50000</option>
+                                                                    <option  value="100000">100000</option>
+                                                                    <option  value="250000">250000</option>
+                                                                    <option  value="500000">500000</option>
+                                                                    <option  value="1000000">1000000</option>
+                                    </select>
+
+                <select id="max_price" name="max_price">
+                    <option value="0">Max Price</option>
+                                                                    <option  value="500">500</option>
+                                                                    <option  value="1000">1000</option>
+                                                                    <option  value="2000">2000</option>
+                                                                    <option  value="3000">3000</option>
+                                                                    <option  value="4000">4000</option>
+                                                                    <option  value="5000">5000</option>
+                                                                    <option  value="6000">6000</option>
+                                                                    <option  value="7000">7000</option>
+                                                                    <option  value="8000">8000</option>
+                                                                    <option  value="9000">9000</option>
+                                                                    <option  value="10000">10000</option>
+                                                                    <option  value="15000">15000</option>
+                                                                    <option  value="20000">20000</option>
+                                                                    <option  value="25000">25000</option>
+                                                                    <option  value="30000">30000</option>
+                                                                    <option  value="35000">35000</option>
+                                                                    <option  value="40000">40000</option>
+                                                                    <option  value="45000">45000</option>
+                                                                    <option  value="50000">50000</option>
+                                                                    <option  value="100000">100000</option>
+                                                                    <option  value="250000">250000</option>
+                                                                    <option  value="500000">500000</option>
+                                                                    <option  value="1000000">1000000</option>
+                                    </select>
+            </div>
+            <div class="col_form col_tablet_3"> 
+                <span class="title">Age</span>                        
+                <select name="min_year" id="min_year">                                                        
+                    <option value="">Min Year</option>
+                                                                            
+                                                                                                    <option  value="2017">2017</option>                                                
+                                                                                            <option  value="2017-2">&nbsp;&nbsp;&nbsp;&nbsp;2017 (172)</option>    
+                                                                                            <option  value="2017-1">&nbsp;&nbsp;&nbsp;&nbsp;2017 (171)</option>    
+                                                                                                                                                        <option  value="2016">2016</option>                                                
+                                                                                            <option  value="2016-2">&nbsp;&nbsp;&nbsp;&nbsp;2016 (162)</option>    
+                                                                                            <option  value="2016-1">&nbsp;&nbsp;&nbsp;&nbsp;2016 (161)</option>    
+                                                                                                                                                        <option  value="2015">2015</option>                                                
+                                                                                            <option  value="2015-2">&nbsp;&nbsp;&nbsp;&nbsp;2015 (152)</option>    
+                                                                                            <option  value="2015-1">&nbsp;&nbsp;&nbsp;&nbsp;2015 (151)</option>    
+                                                                                                                                                        <option  value="2014">2014</option>                                                
+                                                                                            <option  value="2014-2">&nbsp;&nbsp;&nbsp;&nbsp;2014 (142)</option>    
+                                                                                            <option  value="2014-1">&nbsp;&nbsp;&nbsp;&nbsp;2014 (141)</option>    
+                                                                                                                                                        <option  value="2013">2013</option>                                                
+                                                                                            <option  value="2013-2">&nbsp;&nbsp;&nbsp;&nbsp;2013 (132)</option>    
+                                                                                            <option  value="2013-1">&nbsp;&nbsp;&nbsp;&nbsp;2013 (131)</option>    
+                                                                                                                                                        <option  selected="selected"  value="2012">2012</option>
+                                                                                                                            <option  value="2011">2011</option>
+                                                                                                                            <option  value="2010">2010</option>
+                                                                                                                            <option  value="2009">2009</option>
+                                                                                                                            <option  value="2008">2008</option>
+                                                                                                                            <option  value="2007">2007</option>
+                                                                                                                            <option  value="2006">2006</option>
+                                                                                                                            <option  value="2005">2005</option>
+                                                                                                                            <option  value="2004">2004</option>
+                                                                                                                            <option  value="2003">2003</option>
+                                                                                                                            <option  value="2002">2002</option>
+                                                                                                                            <option  value="2001">2001</option>
+                                                                                                                            <option  value="2000">2000</option>
+                                                                                                                            <option  value="1999">1999</option>
+                                                                                                                            <option  value="1998">1998</option>
+                                                                                                                            <option  value="1997">1997</option>
+                                                                                                                            <option  value="1996">1996</option>
+                                                                                                                            <option  value="1995">1995</option>
+                                                                                                                            <option  value="1994">1994</option>
+                                                                                                                            <option  value="1993">1993</option>
+                                                                                                                            <option  value="1992">1992</option>
+                                                                                                                            <option  value="1991">1991</option>
+                                                                                                                            <option  value="1990">1990</option>
+                                                                                                                            <option  value="1989">1989</option>
+                                                                                                                            <option  value="1988">1988</option>
+                                               
+
+                </select>
+                <select name="max_year" id="max_year">
+                    <option value="">Max Year</option>
+                                                                                                    <option  value="2017">2017</option>                                                
+                                                                                            <option  value="2017-2">&nbsp;&nbsp;&nbsp;&nbsp;2017 (172)</option>    
+                                                                                            <option  value="2017-1">&nbsp;&nbsp;&nbsp;&nbsp;2017 (171)</option>    
+                                                                                                                                                        <option  value="2016">2016</option>                                                
+                                                                                            <option  value="2016-2">&nbsp;&nbsp;&nbsp;&nbsp;2016 (162)</option>    
+                                                                                            <option  value="2016-1">&nbsp;&nbsp;&nbsp;&nbsp;2016 (161)</option>    
+                                                                                                                                                        <option  value="2015">2015</option>                                                
+                                                                                            <option  value="2015-2">&nbsp;&nbsp;&nbsp;&nbsp;2015 (152)</option>    
+                                                                                            <option  value="2015-1">&nbsp;&nbsp;&nbsp;&nbsp;2015 (151)</option>    
+                                                                                                                                                        <option  value="2014">2014</option>                                                
+                                                                                            <option  value="2014-2">&nbsp;&nbsp;&nbsp;&nbsp;2014 (142)</option>    
+                                                                                            <option  value="2014-1">&nbsp;&nbsp;&nbsp;&nbsp;2014 (141)</option>    
+                                                                                                                                                        <option  value="2013">2013</option>                                                
+                                                                                            <option  value="2013-2">&nbsp;&nbsp;&nbsp;&nbsp;2013 (132)</option>    
+                                                                                            <option  value="2013-1">&nbsp;&nbsp;&nbsp;&nbsp;2013 (131)</option>    
+                                                                                                                                                        <option  value="2012">2012</option>
+                                                                                                                            <option  value="2011">2011</option>
+                                                                                                                            <option  value="2010">2010</option>
+                                                                                                                            <option  value="2009">2009</option>
+                                                                                                                            <option  value="2008">2008</option>
+                                                                                                                            <option  value="2007">2007</option>
+                                                                                                                            <option  value="2006">2006</option>
+                                                                                                                            <option  value="2005">2005</option>
+                                                                                                                            <option  value="2004">2004</option>
+                                                                                                                            <option  value="2003">2003</option>
+                                                                                                                            <option  value="2002">2002</option>
+                                                                                                                            <option  value="2001">2001</option>
+                                                                                                                            <option  value="2000">2000</option>
+                                                                                                                            <option  value="1999">1999</option>
+                                                                                                                            <option  value="1998">1998</option>
+                                                                                                                            <option  value="1997">1997</option>
+                                                                                                                            <option  value="1996">1996</option>
+                                                                                                                            <option  value="1995">1995</option>
+                                                                                                                            <option  value="1994">1994</option>
+                                                                                                                            <option  value="1993">1993</option>
+                                                                                                                            <option  value="1992">1992</option>
+                                                                                                                            <option  value="1991">1991</option>
+                                                                                                                            <option  value="1990">1990</option>
+                                                                                                                            <option  value="1989">1989</option>
+                                                                                                                            <option  value="1988">1988</option>
+                                                 
+                </select>                                            
+            </div>
+
+            <div class="col_form last"> 
+                <span class="title">Location</span>
+
+                <select name="county_id" id="county_id" >
+                    <option value="0">County</option>
+                                                                    <option  value="-2">Connaught</option>
+                                                                    <option  value="-3">Leinster</option>
+                                                                    <option  value="-4">Munster</option>
+                                                                    <option  value="-5">Ulster</option>
+                                                                    <option  value="29">Antrim</option>
+                                                                    <option  value="1">Carlow</option>
+                                                                    <option  value="2">Cavan</option>
+                                                                    <option  value="3">Clare</option>
+                                                                    <option  value="4">Cork</option>
+                                                                    <option  value="31">Derry</option>
+                                                                    <option  value="5">Donegal</option>
+                                                                    <option  value="30">Down</option>
+                                                                    <option  value="6">Dublin</option>
+                                                                    <option  value="28">Fermanagh</option>
+                                                                    <option  value="7">Galway</option>
+                                                                    <option  value="8">Kerry</option>
+                                                                    <option  value="9">Kildare</option>
+                                                                    <option  value="10">Kilkenny</option>
+                                                                    <option  value="11">Laois</option>
+                                                                    <option  value="12">Leitrim</option>
+                                                                    <option  value="13">Limerick</option>
+                                                                    <option  value="14">Longford</option>
+                                                                    <option  value="15">Louth</option>
+                                                                    <option  value="16">Mayo</option>
+                                                                    <option  value="17">Meath</option>
+                                                                    <option  value="18">Monaghan</option>
+                                                                    <option  value="19">Offaly</option>
+                                                                    <option  value="20">Roscommon</option>
+                                                                    <option  value="21">Sligo</option>
+                                                                    <option  value="22">Tipperary</option>
+                                                                    <option  value="27">Tyrone</option>
+                                                                    <option  value="23">Waterford</option>
+                                                                    <option  value="24">Westmeath</option>
+                                                                    <option  value="25">Wexford</option>
+                                                                    <option  value="26">Wicklow</option>
+                                    </select>
+                    <div>
+        <input id="submit_frist" class="advance" type="submit" name="submit_search" value="Search"  />
+	        <a class="more_link_filter orange"  href="javascript:;" >More Options &raquo;</a>
+            </div>
+</div>
+<div style="clear:both"></div>
+    <div class="" id="more_filter"  style="display:none;">
+        <input id="show_adv_search" type="hidden" name="advanced" value="0" />
+        <div class="col_form">
+            <span class="title">Mileage</span>
+            <select name="min_mileage" id="min_mileage">
+                <option value="">Min Mileage</option>
+                                
+                                        <option  value="5000">5000 Miles</option>
+                                        <option  value="10000">10000 Miles</option>
+                                        <option  value="20000">20000 Miles</option>
+                                        <option  value="40000">40000 Miles</option>
+                                        <option  value="60000">60000 Miles</option>
+                                        <option  value="80000">80000 Miles</option>
+                                        <option  value="100000">100000 Miles</option>
+                            </select>
+            <select name="max_mileage" id="max_mileage">
+                                <option value="">Max Mileage</option>
+                                        <option  value="10000" >10000 Miles</option>
+                                        <option  value="20000" >20000 Miles</option>
+                                        <option  value="40000" >40000 Miles</option>
+                                        <option  value="60000" >60000 Miles</option>
+                                        <option  value="80000" >80000 Miles</option>
+                                        <option  value="100000" >100000 Miles</option>
+                                        <option  value="150000" >150000 Miles</option>
+                                        <option  value="200000" >200000 Miles</option>
+                                        <option  value="300000" >300000 Miles</option>
+                                        <option  value="400000" >400000 Miles</option>
+                                        <option  value="500000" >500000 Miles</option>
+                            </select>
+        </div>
+			
+        <div class="col_form">
+        <span class="title">Engine</span>
+            <select name="min_engine" id="min_engine">
+                <option value="">Min Engine</option>
+                                                        <option   value="600">0.6l</option>
+                                        <option   value="1000">1l</option>
+                                        <option   value="1100">1.1l</option>
+                                        <option   value="1200">1.2l</option>
+                                        <option   value="1300">1.3l</option>
+                                        <option   value="1400">1.4l</option>
+                                        <option   value="1500">1.5l</option>
+                                        <option   value="1600">1.6l</option>
+                                        <option   value="1700">1.7l</option>
+                                        <option   value="1800">1.8l</option>
+                                        <option   value="1900">1.9l</option>
+                                        <option   value="2000">2l</option>
+                                        <option   value="2100">2.1l</option>
+                                        <option   value="2200">2.2l</option>
+                                        <option   value="2300">2.3l</option>
+                                        <option   value="2400">2.4l</option>
+                                        <option   value="2500">2.5l</option>
+                                        <option   value="2600">2.6l</option>
+                                        <option   value="2700">2.7l</option>
+                                        <option   value="2800">2.8l</option>
+                                        <option   value="2900">2.9l</option>
+                                        <option   value="3000">3l</option>
+                                        <option   value="4000">4l</option>
+                                        <option   value="5000">5l</option>
+                            </select>
+            <select name="max_engine" id="max_engine">
+                <option value="">Max Engine</option>
+                                                        <option   value="600">0.6l</option>
+                                        <option   value="1000">1l</option>
+                                        <option   value="1100">1.1l</option>
+                                        <option   value="1200">1.2l</option>
+                                        <option   value="1300">1.3l</option>
+                                        <option   value="1400">1.4l</option>
+                                        <option   value="1500">1.5l</option>
+                                        <option   value="1600">1.6l</option>
+                                        <option   value="1700">1.7l</option>
+                                        <option   value="1800">1.8l</option>
+                                        <option   value="1900">1.9l</option>
+                                        <option   value="2000">2l</option>
+                                        <option   value="2100">2.1l</option>
+                                        <option   value="2200">2.2l</option>
+                                        <option   value="2300">2.3l</option>
+                                        <option   value="2400">2.4l</option>
+                                        <option   value="2500">2.5l</option>
+                                        <option   value="2600">2.6l</option>
+                                        <option   value="2700">2.7l</option>
+                                        <option   value="2800">2.8l</option>
+                                        <option   value="2900">2.9l</option>
+                                        <option   value="3000">3l</option>
+                                        <option   value="4000">4l</option>
+                                        <option   value="5000">5l</option>
+                                        <option   value="9999">9.999l</option>
+                            </select>
+        </div>
+			
+        <div class="col_form " >
+            <span class="title">Body type</span>
+            <select name="doors" id="doors">
+                <option value="">Doors</option>
+                                                    <option  value="2">2</option>
+                                    <option  value="3">3</option>
+                                    <option  value="4">4</option>
+                                    <option  value="5">5</option>
+                                    <option  value="6">6</option>
+                                    <option  value="7">7</option>
+                            </select>
+            <select name="body" id="body" class="cbg_searchSelect">
+                <option value="">Any Body</option>                
+                                                    <option  value="1">Cabriolet</option>
+                                    <option  value="2">Coupe</option>
+                                    <option  value="3">Estate</option>
+                                    <option  value="4">Hatchback</option>
+                                    <option  value="5">MPV</option>
+                                    <option  value="6">Saloon</option>
+                                    <option  value="7">SUV</option>
+                                    <option  value="8">4x4</option>
+                                    <option  value="9">Van</option>
+                                    <option  value="10">Commercial</option>
+                                    <option  value="11">Panel Van</option>
+                                    <option  value="13">Pick Up</option>
+                                    <option  value="14">Other</option>
+                                    <option  value="15">Crew Cab </option>
+                                    <option  value="16">SPORTS/COUPE</option>
+                            </select>
+        </div>
+        <div class="col_form last seller">
+            <span class="title">Seller type</span>
+
+            <select name="sellers" id="sellers">
+                                <option selected="selected" value="">All Sellers</option>
+                <option  value="1">Dealer Only</option>
+                <option  value="2">Private Only</option>	
+            </select>
+            <select name="dealer_id" id="dealer_id"  >
+                <option selected="selected" value="">Dealer Name (select Make/County first)</option>
+            </select> 
+        </div>
+        <div class="col_form last other" style="width:700px;">	
+            <span class="title">Other</span>
+            <select name="fuels" id="fuels">
+                <option value="">Any Fuel Types</option>
+                                                    <option  value="1">Petrol</option>
+                                    <option  value="2">Diesel</option>
+                                    <option  value="3">Hybrid</option>
+                                    <option  value="4">Biofuel / Other</option>
+                                    <option  value="5">Electric</option>
+                            </select>
+            <select name="gearboxes" id="gearboxes">
+                <option value="">Any Transmission</option>
+                                                    <option  value="1">Manual</option>
+                                    <option  value="2">Auto</option>
+                                    <option  value="3">TipTronic</option>
+                            </select>
+            <select name="ColorID" id="ColorID" class="cbg_searchSelect">
+                <option value="">Any Color</option>
+                                                    <option  value="1">Beige</option>
+                                    <option  value="2">Black</option>
+                                    <option  value="3">Blue</option>
+                                    <option  value="18">Bronze</option>
+                                    <option  value="4">Brown</option>
+                                    <option  value="5">Burgundy</option>
+                                    <option  value="6">Gold</option>
+                                    <option  value="7">Green</option>
+                                    <option  value="8">Grey</option>
+                                    <option  value="16">Ice Blue</option>
+                                    <option  value="17">Ice White</option>
+                                    <option  value="15">Navy</option>
+                                    <option  value="9">Orange</option>
+                                    <option  value="10">Purple</option>
+                                    <option  value="11">Red</option>
+                                    <option  value="12">Silver</option>
+                                    <option  value="13">White</option>
+                                    <option  value="14">Yellow</option>
+                            </select>
+			<input class="advance" type="submit" name="submit_search" id="submit_second" value="Search"/>
+        </div>	
+           
+        </div>
+
+   
+<script>
+$('.more_link_filter').click(function(){
+    $("#more_filter").slideToggle('medium',function() {
+        if($("#more_filter").css('display')=='none')
+        {
+            $("#submit_frist").css('display','');
+            $("#submit_second").css('display','none');
+        }
+        else
+        {
+            $("#submit_frist").css('display','none');
+            $("#submit_second").css('display','');        
+        }
+    });
+    
+    
+    
+    var advanced_active = $("#show_adv_search").val();
+    //alert (advanced_active);
+    if(advanced_active == "1"){
+        $("#show_adv_search").val("0");
+    }else{
+        $("#show_adv_search").val("1")
+    }   
+    if($(this).text() == "« Less options" ? $(this).text("More options »") : $(this).text("« Less options"));
+	
+    });
+
+$("#county_id").change(function(){
+    var make = $("#brand_id").val();
+    var seller = $("#sellers").val();
+    
+    if(make!= "" )
+    $.get('http://www.cbg.ie/used_cars/get_dealers/'+$(this).val()+"/"+make, function(data) {
+        $("#dealer_id").html(data);
+        //alert(data)
+    });				
+});
+
+$("#sellers").change(function(){
+    var seller = $("#sellers").val();
+    if( seller == 2 ){
+        $("#dealer_id").prop('disabled', true);
+    }else{
+        $("#dealer_id").prop('disabled', false);
+    }
+});
+
+
+
+</script>
+
+        </form>
+    </div>
+
+    <div class="pagination_used">
+        <span class="next"><a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012/0/0/10">Next &raquo;</a></span>    </div>
+
+    
+    <section class="listing">    
+                <article class="recomand_dealer " style="background-color:#B7CBF3" >
+    <div class="ads_list">
+        <div class="title_dealer">
+            <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" >
+                <span class="txt_bold">Recommended Dealer:</span> Audi North Dublin            </a>
+        </div>
+        <div class="ads_img">
+            															
+            <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
+                <img src="/uploaded/used_cars_images/410_307/imgf_56b1203aefafe_1.jpg"  alt="Audi A4 2.0L "/>
+            </a>
+                    </div>
+        <div class="ads_txt">            
+            <div class="title">
+                <h3>
+                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
+                        Audi A4 2.0L                    </a>
+                </h3>
+                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
+                <p class="desc_vehicle">4door, White in colour 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon'> [ Read more ] </a></p>                
+            </div>
+            <span class="ads_price">
+                <strong>POA</strong>
+            </span>
+        </div> 
+    </div>
+    <div class="ads_logos">
+        <ul>
+            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>        </ul>
+    </div>
+    <div class="ads_more">
+        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">View Details</a>
+        <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
+            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px">
+        </a>
+    </div>        
+</article>        <article class="recomand_dealer aa_dealer">
+    <div class="ads_list">
+        <div class="title_dealer">
+            <img alt="" src="/images/approved_dealer_icon.jpg">
+            <a href="http://www.cbg.ie/dealer/dan-seaman-motors" >
+                <span class="txt_bold">AA Dealer:</span> Dan Seaman Motors            </a>
+        </div>
+        <div class="ads_img">
+            															
+            <a href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">
+                <img src="/uploaded/used_cars_images/410_307/imgf_56b0afa4b90f1_1.jpg"  alt="Audi A4 2.0L "/>
+            </a>
+                    </div>
+        <div class="ads_txt">
+            <div class="title">
+                <h3>
+                    <a href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">
+                        Audi A4 2.0L                    </a>
+                </h3>
+                <span class="sub_title">2014  | Co. Cork | 37,356 M / 60,119 KM <br /> 2.0 Diesel</span>
+                <p class="desc_vehicle">4door, Silver in colour 2.0 TDI 120 4DR-BLUETOOTH-17&quot;ALLOYS-SENSORS-STOP/START FUEL SAVING-GENUINE LOW KM&#39;S-IMMACULATE CAR **IMMACULATE AUDI&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon'> [ Read more ] </a></p>
+            </div>
+            <span class="ads_price">
+                <strong>&euro;29,950</strong>
+            </span>
+        </div>
+    </div>       
+    <div class="ads_logos">
+        <ul>
+           <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6067165?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>        </ul>
+    </div>
+    <div class="ads_more">
+        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">View Details</a>
+        <a class="brand_seller" href="http://www.cbg.ie/dealer/dan-seaman-motors" title="Dan Seaman Motors">
+            <img src="/uploaded/dealers_images/logos/190_logo_1449832897566ab1c148fff.png" alt="Dan Seaman Motors logo" style="max-width:150px">
+        </a>
+    </div> 
+</article>
+        <article class="recomand_dealer private">
+    <div class="ads_list">        
+        <div class="title_dealer"><a href="#" >Recommended Private Car</a></div>
+        <div class="ads_img">
+            															
+            <a href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">
+                <img src="/uploaded/used_cars_images/410_307/new_img_142140929554b8fc0fe0c1c.jpg"  alt="Audi A4 2.0L "/>
+            </a>
+                    </div>
+        <div class="ads_txt">            
+            <div class="title">
+                <h3>
+                    <a href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">
+                        Audi A4 2.0L                    </a>
+                </h3>
+                <span class="sub_title">2012  | Co. Dublin | 24,419 M / 39,300 KM <br /> 2.0 Diesel</span>
+                <p class="desc_vehicle">4door, Red in colour Beautiful S-Line A4 Avant - Full Service carried out December 2014, Two new 18&quot; Tyres, tinted windows, black interior. Catches&#8230; <a href='http://www.cbg.ie/Audi_A4_2.0_2012_Dublin'> [ Read more ] </a></p> 
+                            </div>
+            <span class="ads_price">
+                <strong>&euro;29,500</strong>
+            </span>
+        </div>
+    </div>
+    <div class="ads_logos">
+        <ul>
+            <li>
+                <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+                    <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+                </a>
+            </li>
+            <li>
+                <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="_blank">
+                    <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="ads_more">
+        <a class="recomand_but" href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">View Details</a>
+        <a class="recomand_but" href="http://www.cbg.ie/shortlist/add/5770860">Add to Shortlist</a>       
+    </div>
+</article>
+                   
+                  
+                                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
+<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
+<div id="inPageVideo"></div>
+<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
+<!-- End of JavaScript Tag -->
+</aside>                  
+                 
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b12245379fa_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2015  | Co. Westmeath | 15,534 M / 25,000 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Black in colour 2.0TDI 150BHP SE S-Line Ext  <a href='http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;38,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6067757?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/michael-moore-athlone" title="Michael Moore Athlone">
+                            <img src="/uploaded/dealers_images/logos/michaelmoore.gif" alt="Michael Moore Athlone logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                             
+                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
+<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
+<div id="inPageVideo"></div>
+<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
+<!-- End of JavaScript Tag -->
+</aside>                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b120488b53d_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Grey in colour 2.0 TDI 150 Ultra - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
+                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b1203aefafe_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, White in colour 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
+                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b12038418bd_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">5door, White in colour Avant 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
+                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b11f16d0f13_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2015  | Co. Wexford | 310 M / 500 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Blue in colour 2.0TDI 150BHP SE + S Line Exterior Pack  <a href='http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;35,975</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/audi-wexford-audi-approved-plus" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-wexford-audi-approved-plus" title="Audi Wexford  Audi Approved Plus">
+                            <img src="/uploaded/dealers_images/logos/1000659_logo_145432485656af3c7803e09.jpg" alt="Audi Wexford  Audi Approved Plus logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
+<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
+<div id="inPageVideo"></div>
+<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
+<!-- End of JavaScript Tag -->
+</aside>                  
+                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#FEFFBD" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=69661_2016634&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b1127038e2a_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2013  | Co. Mayo | 0 M / 0 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4/5door, Silver (metallic) (pearl Effect) in colour 2.0 TDI 120HP Audi Music Interface, Bluetooth Interface, CD Player, Auto Handbrake, Engine Recuperation,&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;26,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6067462?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Kevin Connolly Volkswagen (Part of Connolly Motor Group)">
+                            <img src="/uploaded/dealers_images/logos/429_logo_143757431355afa4a97b584.png" alt="Kevin Connolly Volkswagen (Part of Connolly Motor Group) logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                             
+                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
+<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
+<div id="inPageVideo"></div>
+<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
+<!-- End of JavaScript Tag -->
+</aside>                 
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#FEFFBD" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=69661_2016423&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b11259855cc_1.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2014  | Co. Mayo | 31,689 M / 51,000 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4/5door, Ibis White in colour 2.0TDI 120bhp with up grade alloys Audi Music Interface, Bluetooth Interface, Audi Sound System, Auto Handbrake, Engine&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2014-mayo'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;29,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6067461?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Kevin Connolly Volkswagen (Part of Connolly Motor Group)">
+                            <img src="/uploaded/dealers_images/logos/429_logo_143757431355afa4a97b584.png" alt="Kevin Connolly Volkswagen (Part of Connolly Motor Group) logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                 
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454408422_0.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2012  | Co. Laois | 68,000 M / 109,435 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Black in colour AUDI A4 2.0 Diesel 6 Speed Manual, Alloy wheels, Bi Xenon Lights, Bluetooth, Foglights, Full service history, Parking Sensors,&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-laois'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/john-adams-car-sales" title="John Adams Car Sales">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="John Adams Car Sales logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                 
+                                                <article class="ad_listing_simple aa_highlight" style="background-color:#E2EDC6" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454420883_0.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2012  | Co. Dublin | 105,000 M / 168,981 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Black in colour AUDI A4 2.0 Diesel ANOTHER PRE APPROVED AND QUALITY ASSURED CAR FROM RAMILLIES MOTOR COMPANY LTD THE 2012 AUDI A4 2.0 TDI TECNIK&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;18,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/ramillies-motor-company" title="Ramillies Motor Company">
+                            <img src="/uploaded/dealers_images/logos/1000587_logo_145339617056a110ca98d52.jpg" alt="Ramillies Motor Company logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                  
+                             
+                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
+<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
+<div id="inPageVideo"></div>
+<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
+<!-- End of JavaScript Tag -->
+</aside>                 
+                                                <article class="ad_listing_simple aa_highlight" style="background-color:#E2EDC6" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454420923_0.jpg"  alt="Audi A4 2.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">
+                                        Audi A4 2.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2012  | Co. Dublin | 85,000 M / 136,794 KM <br /> 2.0 Diesel</span>
+                                <p class="desc_vehicle">4door, Red in colour AUDI A4 2.0 Diesel ANOTHER PRE APPROVED AND QUALITY ASSURED CAR FROM RAMILLIES MOTOR COMPANY LTD THE 2012 2.0 TDI SE EXECUTIVE NEW&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-dublin'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;18,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/ramillies-motor-company" title="Ramillies Motor Company">
+                            <img src="/uploaded/dealers_images/logos/1000587_logo_145339617056a110ca98d52.jpg" alt="Ramillies Motor Company logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+    
+
+
+    </section>
+        <aside class="page_options bottom">
+
+            <div class="block_options" style="float:left;">
+                <span class="nr">Viewing 1-10 of 336</span>
+            </div>
+            <div class="buttons" style="float:right;width:auto;">
+    <span class="next"><a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012/0/0/10">Next &raquo;</a></span>            </div>
+
+        </aside>
+    <aside class="adv_ful">
+
+    </aside>
+    <div class="search_info">
+        <p>You have searched for a Audi&nbsp;A4 in  Ireland. CBG.ie (Car Buyers Guide) have a great choice of cars for sale in Ireland. We have similar cars for sale in nearby areas to Ireland. We recommend widening your auto search and view all cars for sale in Ireland or filter to see only cars in Ireland. As well as Ireland cars for sale, CBG.ie have New Cars in Ireland to buy including jeeps, saloons, luxery, hatchbacks, estates, MPVs, Coupes and we have excellent to help you pick the perfect car.</p>
+    </div>
+
+
+</div>
+
+<div class="right" style="width:200px;">
+    <div class="bannerMPU">
+        <!--<a href="/pay-less-direct-get-quote" target="_blank" >
+            <img src="/images/parteners/carInsuranceCarDetails.jpg"  alt="Payless" />
+        </a>-->
+    </div>            
+    
+    <div class="bannerMPU">
+<!-- /179733492/CBG_UsedCars_Sky -->
+<div id='div-gpt-ad-1441036667905-5'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-5'); });
+</script>
+</div>    </div>
+
+
+
+    <div  class="round blue_box" >
+        <h4>What is my car worth?</h4>
+        <div class="cbg_searchBox">
+
+            <form action="/whats-it-worth/" method="post" id="what_it_worth">                                      
+                <select name="brand_id" id="wiw_brand_id">
+                    <option value="-1" selected="selected">Select Make</option>
+                                            <option value="18">Alfa Romeo</option>
+                        <option value="37">Aston Martin</option>
+                        <option value="43">Audi</option>
+                        <option value="77">Bentley</option>
+                        <option value="90">BMW</option>
+                        <option value="157">Chevrolet</option>
+                        <option value="163">Chrysler</option>
+                        <option value="166">Citroen</option>
+                        <option value="3668">Dacia</option>
+                        <option value="206">Daewoo</option>
+                        <option value="211">Daihatsu</option>
+                        <option value="1455">Datsun</option>
+                        <option value="289">Ferrari</option>
+                        <option value="295">Fiat</option>
+                        <option value="313">Ford</option>
+                        <option value="3671">Gwm</option>
+                        <option value="3365">Hillman</option>
+                        <option value="400">Honda</option>
+                        <option value="412">Hummer</option>
+                        <option value="423">Hyundai</option>
+                        <option value="440">Isuzu</option>
+                        <option value="447">Jaguar</option>
+                        <option value="453">Jeep</option>
+                        <option value="482">Kia</option>
+                        <option value="515">Lamborghini</option>
+                        <option value="521">Land Rover</option>
+                        <option value="541">Lexus</option>
+                        <option value="552">Lincoln</option>
+                        <option value="582">Maserati</option>
+                        <option value="587">Mazda</option>
+                        <option value="597">Mercedes</option>
+                        <option value="609">MG</option>
+                        <option value="613">MINI</option>
+                        <option value="619">Mitsubishi</option>
+                        <option value="1533">Morgan</option>
+                        <option value="664">Nissan</option>
+                        <option value="678">Opel</option>
+                        <option value="1966">Perodua</option>
+                        <option value="701">Peugeot</option>
+                        <option value="717">Porsche</option>
+                        <option value="759">Renault</option>
+                        <option value="782">Rolls Royce</option>
+                        <option value="786">Rover</option>
+                        <option value="794">Saab</option>
+                        <option value="823">Seat</option>
+                        <option value="854">Skoda</option>
+                        <option value="860">Smart</option>
+                        <option value="874">Ssangyong</option>
+                        <option value="891">Subaru</option>
+                        <option value="901">Suzuki</option>
+                        <option value="953">Toyota</option>
+                        <option value="1423">TVR</option>
+                        <option value="987">Vauxhall</option>
+                        <option value="1008">Volkswagen</option>
+                        <option value="1002">Volvo</option>
+                </select>
+                <select name="model_id" id="wiw_model_id">
+                    <option value="-1">Select Model</option>
+                </select>
+                <select name="year" id="wiw_year">
+                    <option value="-1">Select Year</option>
+                </select>
+                <input type="submit" name="wiw_submit_search" style="margin-top: 5px;" class="button" tabindex="13" value="Calculate">
+            </form>
+        </div>
+    </div>
+
+    <div class="bannerMPU">
+   
+    </div>
+
+
+
+
+
+
+
+</div>
+<script>
+
+                    $(document).ready(function () {
+                        $.get('http://www.cbg.ie/home/atoz', function (data) {
+                            $("#az_list").html(data);
+                        });
+                        $('#brand_id').change(function () {
+                            $.get("http://www.cbg.ie/" + 'used_cars/get_models/' + $(this).val(), function (data) {
+                                if (data) {
+                                    $('#model_id').html(data);
+                                }
+                            })
+                        });
+
+                        $("#model_id").change(function () {
+                            $.get('http://www.cbg.ie/used-cars/get_models_types/' + $(this).val(), function (data) {
+                                $("#type").html(data);
+                            });
+                            //track_event('quicksearch/model', this.value, '');         
+                        });
+                        $("#wiw_brand_id").click(function (e) {
+                            $.get('/used_cars/get_models/' + $(this).val(),
+                                    function (data) {
+                                        if (data) {
+                                            $('#wiw_model_id').html(data);
+                                        }
+                                    });
+                            e.preventDefault();
+                        });
+
+                        $("#wiw_model_id").change(function () {
+                            $.get('/whatisitworth/get_years/' + $("#wiw_model_id").val(), function (data) {
+                                $("#wiw_year").html(data);
+                            });
+                        });
+
+                        $("#what_it_worth").submit(function () {
+
+                            var errors = '';
+                            var brand_id = $("#wiw_brand_id").val();
+                            var model_id = $("#wiw_model_id").val();
+                            var year = $("#wiw_year").val();
+
+                            if (brand_id < 1)
+                            {
+                                errors += ' Please select a brand! \n';
+                            }
+                            else if (model_id < 1)
+                            {
+                                errors += ' Please select a model! \n';
+                            }
+                            else if (year < 1)
+                            {
+                                errors += ' Please select a year! \n';
+                            }
+
+                            if (errors !== '')
+                            {
+                                alert(errors);
+                                return false;
+                            }
+
+                            var form_url = this.action;
+                            console.log(form);
+
+                            return true;
+                        });
+
+                    });
+
+</script>
+    
+                <div id='div-gpt-ad-1441036667905-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-2'); });
+</script>
+</div>
+ 
+            </div>
+    </div>
+
+<footer> 
+	<div class="inner">
+		<div class="left">
+			<div class="col">
+				<h5>Search</h5>
+				<nav>
+					<ul>
+						<li><a href="http://www.cbg.ie/" title="CarDealer">Home</a></li>
+						<li><a href="http://www.cbg.ie/used-cars-for-sale" title="CarDealer">Used Cars Search</a></li>
+						<li><a href="http://www.cbg.ie/new-cars-for-sale" title="">New Cars Search</a></li>
+						<li><a href="http://www.cbg.ie/wanted-cars" title="">Wanted Cars Search</a></li>
+						<li><a href="http://www.cbg.ie/dealer-locator" title="">Dealer Search</a></li>
+					</ul>
+				</nav>
+				<h5>Partner Pages</h5>
+				<nav>
+					<ul>
+                                            						<li><a href="http://www.cbg.ie/car-history-check" title="">Car History Check</a></li>
+						<li><a href="http://www.cbg.ie/atoz-directory/atoz-categories" title="">A-Z of Motoring (parts & accessories)</a></li>
+					</ul>
+				</nav>
+			</div>
+			
+			<div class="col">
+				<h5>Stock Uploading </h5>
+				<nav>
+					<ul>
+                                            						<li><a href="http://www.cbg.ie/users" title="">Register</a></li>
+                                                <li><a href="http://www.cbg.ie/users#login_user" title="">Login</a></li>
+                                            						<li><a href="http://www.cbg.ie/users_ads/add/new" rel="nofollow" title="">Place an ad</a></li>
+						<li><a href="http://www.cbg.ie/admin" title="">DealerNET (dealer stock uploader) </a></li>
+					</ul>
+				</nav>
+				<h5>Connect with us</h5>
+				<nav>
+					<ul>
+						
+						<li><a href="http://www.cbg.ie/contact-us" title="">Contact Us</a></li>
+						<li><a href="http://www.cbg.ie/advertising-choose" title="">Advertise on CBG</a></li>
+						<li><a href="http://www.cbg.ie/home/privacy" title="">Privacy Policy</a></li>
+                                                <li><a href="http://www.cbg.ie/terms-and-conditions" title="">Terms and Conditions</a></li>
+						<li><a href="http://www.cbg.ie/jobs" title="">Careers</a></li>
+						<li><a href="http://www.cbg.ie/sitemap" title="">Site Map</a></li>
+					</ul>
+				</nav>
+			</div>
+			
+			<div class="col">
+				<h5>Editorials and other</h5>
+				<nav>
+					<ul>
+						<li><a href="http://www.cbg.ie/used-car-review" title="">Used car reviews</a></li>
+						<li><a href="http://www.cbg.ie/motoring-news-ireland" title="">Motoring news</a></li>
+                                                <li><a href="http://www.cbg.ie/testimonials" title="">Testimonials</a></li>                    
+                                                                                                
+                                                
+						
+					</ul>
+				</nav>
+				<h5>Sister sites</h5>
+				<nav>
+					<ul>
+						<li><a href="http://www.menupages.ie" title="">Menupages.ie</a></li>
+						<li><a href="http://www.indublin.ie" title="">InDublin</a></li>
+						<li><a href="http://www.vanbuyersguide.ie/" title="">Vans and Commercials</a></li>
+						<li><a href="http://www.classicbuyersguide.ie/" title="">Classic cars</a></li>
+                                                					</ul>
+				</nav>
+			</div>
+		</div>
+		<div class="right">
+                        <a style="display:inline-block;  margin:0 15px 15px 0;" href="https://www.facebook.com/CBG.ie" title=""><img src="http://www.cbg.ie/images/social/facebook.png" alt="facebook" /></a>
+                        <a style="display:inline-block; margin:0 0px 15px 0;" href="https://twitter.com/CBGie" title=""><img src="http://www.cbg.ie/images/social/twitter.png" alt="twitter" /></a>
+                        <a style="display:inline-block; margin:0 0px 15px 15px;" href="https://plus.google.com/107164157048824650761" rel="publisher" title=""><img src="http://www.cbg.ie/images/social/google-plus.png" alt="google+" /></a>
+                        <a style="display:inline-block; margin:0 0px 15px 15px;" href="http://www.linkedin.com/company/www-cbg-ie" rel="publisher" title=""><img src="http://www.cbg.ie/images/social/linkedin-icon.png" alt="linkedin" /></a>
+                        <a style="display:inline-block; margin:0 0px 15px 15px;" href="https://www.pinterest.com/cbg_ie/" rel="publisher" title="Pinterest"><img src="http://www.cbg.ie/images/social/pinterest-icon.png" alt="pinterest" /></a>
+                                                
+			<a class="logo_footer" href="#" title="#"><img src="http://www.cbg.ie/images/logo_footer.png" alt="cgb"/></a>
+			<br /><span>Copyright CBG.ie <br />Published by Page7Media.ie </span>  <span style="font-size: 8px;"><br />Elapsed Time : 0.1783</span>
+		</div>
+	</div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+    $("#banner-billboard").css("margin", "").css("text-align", "center").css("width", "100%");   
+    });
+    </script>
+    
+</footer>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        // grab the initial top offset of the navigation 
+        var stickyNavTop = $('#sticky_nav').offset().top;
+        
+        // our function that decides weather the navigation bar should have "fixed" css position or not.
+        var stickyNav = function(){
+            var scrollTop = $(window).scrollTop(); // our current vertical position from the top
+                 
+            // if we've scrolled more than the navigation, change its position to fixed to stick to top,
+            // otherwise change it back to relative
+            if (scrollTop > stickyNavTop) { 
+                $('#sticky_nav').addClass('sticky');
+            } else {
+                $('#sticky_nav').removeClass('sticky'); 
+            }
+        };
+
+        stickyNav();
+        // and run it again every time you scroll
+        $(window).scroll(function() {
+            stickyNav();
+        });
+    });
+</script>
+
+
+   <script  src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+    <script>
+      WebFont.load({
+        google: {
+          families: ['Duru Sans', 'Maven Pro']
+        }
+      });
+    </script>
+
+
+
+<script src="/js/cookiecuttr/jquery-cookie/jquery.cookie.js"></script>
+<script src="/js/cookiecuttr/jquery.cookiecuttr.js"></script>
+<link rel="stylesheet" href="/js/cookiecuttr/cookiecuttr.css">
+<script>
+    $(document).ready(function() {
+        $.cookieCuttr();              
+    });
+</script>
+
+<script type='text/javascript' src='http://www.cbg.ie/js/jquery.autosize.min.js'></script>
+<!-- /179733492/CBG_Used_Wallpaper -->
+<div id='div-gpt-ad-1441036667905-0' style='height:1px; width:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-0'); });
+</script>
+</div>    <script type="text/javascript" src="/js/index.js" async ></script>
+        </body>
+</html>
