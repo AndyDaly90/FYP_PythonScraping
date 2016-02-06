@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>Used Audi A4 Ireland | Cars For Sale on CBG.ie</title> 
+<title>Used Opel Corsa Ireland | Cars For Sale on CBG.ie</title> 
 
 
 <META name="keywords" lang="en-us" content="cars Ireland, cars for sale, cars for sale Ireland, used cars for sale, used cars for sale Ireland, motoring news, sell your car, car buyers guide, cbg, Freephone from browser, car reviews," />
-<META name="description" content="Find Used Audi A4 for sale in Ireland. Browse through the list of available used Audi A4 cars in Ireland on Car Buyers Guide, Ireland's #1 used car website." />
+<META name="description" content="Find Used Opel Corsa for sale in Ireland. Browse through the list of available used Opel Corsa cars in Ireland on Car Buyers Guide, Ireland's #1 used car website." />
         
         
         
-<link rel="canonical" href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012" />        
+<link rel="canonical" href="http://www.cbg.ie/used_cars/opel/corsa/all/0/0/2012" />        
     <link rel="next" href="/10" />        
         
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
@@ -21,9 +21,10 @@
 
 
     <!--used cars css -->
-    <link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/used_cars3.css?v=1.26"/>   
+    <link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/used_cars3.css?v=1.27"/>   
     <!-- end css -->
-<link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/cars_list.css?v=1.1"/> 
+
+<link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/cars_list.css?v=1.2"/> 
 <!-- Tablet optimization -->
 <link rel="stylesheet" type='text/css' href="http://www.cbg.ie/css/tablet.css"/>
 
@@ -73,7 +74,7 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-4798478-1']);
   _gaq.push(['_setDomainName', 'cbg.ie']);
-  _gaq.push(['_trackPageview', '/used_cars/audi/a4/all/0/0/2012']);
+  _gaq.push(['_trackPageview', '/used_cars/opel/corsa/all/0/0/2012']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -112,15 +113,20 @@
 <body>
     <script type='text/javascript'>
   googletag.cmd.push(function() {
-    googletag.defineSlot('/179733492/CBG_Used_Wallpaper', [1, 1], 'div-gpt-ad-1441036667905-0').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_UsedCars_Billboard', [970, 250], 'div-gpt-ad-1441036667905-1').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_LB', [728, 90], 'div-gpt-ad-1441036667905-2').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_MPU', [300, 250], 'div-gpt-ad-1441036667905-3').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_UsedCars_Sky', [[160, 600], [120, 600]], 'div-gpt-ad-1441036667905-5').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_UsedCars_Top_Banner', [728, 90], 'div-gpt-ad-1441036667905-6').addService(googletag.pubads());
-    googletag.defineSlot('/179733492/CBG_Used_MPU', [300, 250], 'div-gpt-ad-1441036667905-7').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_Used_Wallpaper', [1, 1], 'div-gpt-ad-1454429627221-0').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_1_Leader', [728, 90], 'div-gpt-ad-1454429627221-1').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_2_Leader', [728, 90], 'div-gpt-ad-1454429627221-2').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_3_Leader', [728, 90], 'div-gpt-ad-1454429627221-3').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_300x100', [300, 200], 'div-gpt-ad-1454429627221-4').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Billboard', [970, 250], 'div-gpt-ad-1454429627221-5').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_LB', [728, 90], 'div-gpt-ad-1454429627221-6').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Bott_MPU', [300, 250], 'div-gpt-ad-1454429627221-7').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_PopupLB', [728, 90], 'div-gpt-ad-1454429627221-8').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Sky', [[120, 600], [160, 600]], 'div-gpt-ad-1454429627221-9').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_UsedCars_Top_Banner', [728, 90], 'div-gpt-ad-1454429627221-10').addService(googletag.pubads());
+    googletag.defineSlot('/179733492/CBG_Used_MPU', [300, 250], 'div-gpt-ad-1454429627221-11').addService(googletag.pubads());
     googletag.pubads().collapseEmptyDivs();
-    googletag.pubads().setTargeting('cbgmodel', ['Audi A4']);
+    googletag.pubads().setTargeting('cbgyear', []).setTargeting('cbgmake', ['Opel']).setTargeting('cbgmodel', ['Corsa']);
     googletag.pubads().enableSyncRendering();
     googletag.enableServices();
   });
@@ -134,9 +140,10 @@
     })(window,document,'script','dataLayer','GTM-NZ4M4H');</script>
     <!-- End Google Tag Manager -->
 <div id="page">
-    <div id='div-gpt-ad-1441036667905-1' style='height:250px; width:970px;'>
+    <!-- /179733492/CBG_UsedCars_Billboard -->
+<div id='div-gpt-ad-1454429627221-5' style='height:250px; width:970px;'>
 <script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-1'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-5'); });
 </script>
 </div>   
     <header>
@@ -158,9 +165,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-1');
         <aside>            
             <div id="top_full"></div>
             <!-- /179733492/CBG_UsedCars_Top_Banner -->
-<div id='div-gpt-ad-1441036667905-6' style='height:90px; width:728px;'>
+<div id='div-gpt-ad-1454429627221-10' style='height:90px; width:728px;'>
 <script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-10'); });
 </script>
 </div>        </aside>
         <div id="sticky_nav">  
@@ -260,14 +267,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6');
                     </a>
                                          › </div>  
                                 <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                                        <a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012" itemprop="url">
-                        <span itemprop="title">Used Audi A4 models</span>
+                                        <a href="http://www.cbg.ie/used_cars/opel/corsa/all/0/0/2012" itemprop="url">
+                        <span itemprop="title">Used Opel Corsa models</span>
                     </a>
                                         </div>  
                                 
             </div>
                         <div class="left" style="width:730px;">
-    <h1>Used Audi A4  in Ireland</h1>
+    <h1>Used Opel Corsa  in Ireland</h1>
         
     <aside class="page_options simi_option">
         <div class="block_options">
@@ -319,7 +326,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6');
                     <option value="0">Select Make</option>
                                                                     <option  value="18">Alfa Romeo</option>
                                                                     <option  value="37">Aston Martin</option>
-                                                                    <option  selected="selected"  value="43">Audi</option>
+                                                                    <option  value="43">Audi</option>
                                                                     <option  value="77">Bentley</option>
                                                                     <option  value="90">BMW</option>
                                                                     <option  value="157">Chevrolet</option>
@@ -353,7 +360,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6');
                                                                     <option  value="619">Mitsubishi</option>
                                                                     <option  value="1533">Morgan</option>
                                                                     <option  value="664">Nissan</option>
-                                                                    <option  value="678">Opel</option>
+                                                                    <option  selected="selected"  value="678">Opel</option>
                                                                     <option  value="1966">Perodua</option>
                                                                     <option  value="701">Peugeot</option>
                                                                     <option  value="717">Porsche</option>
@@ -376,31 +383,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-6');
 
                 <select name="model_id" id="model_id">
                     <option selected="selected" value="">Select Model</option>
-                                                                                                    <option  value="18014">A1</option>
-                                                                                <option  value="651">A2</option>
-                                                                                <option  value="14">A3</option>
-                                                                                <option  selected="selected"  value="15">A4</option>
-                                                                                <option  value="15884">A5</option>
-                                                                                <option  value="16">A6</option>
-                                                                                <option  value="23151">A7</option>
-                                                                                <option  value="17">A8</option>
-                                                                                <option  value="1917">All Road</option>
-                                                                                <option  value="2619">Coupe</option>
-                                                                                <option  value="145494">Q3</option>
-                                                                                <option  value="18015">Q5</option>
-                                                                                <option  value="13000">Q7</option>
-                                                                                <option  value="4832">Quattro</option>
-                                                                                <option  value="15885">R8</option>
-                                                                                <option  value="1456232">RS3</option>
-                                                                                <option  value="13540">RS4</option>
-                                                                                <option  value="7268">RS6</option>
-                                                                                <option  value="1396">S3</option>
-                                                                                <option  value="1545">S4</option>
-                                                                                <option  value="16148">S5</option>
-                                                                                <option  value="audi-tt-group">TT (All)</option>
-                                                                                <option  value="1456538">&nbsp;&nbsp;&nbsp;&nbsp;TT RS</option>
-                                                                                <option  value="1456915">&nbsp;&nbsp;&nbsp;&nbsp;TTC</option>
-                                                                                <option  value="1456539">&nbsp;&nbsp;&nbsp;&nbsp;TTS</option>
+                                                                                                    <option  value="1456239">Adam</option>
+                                                                                <option  value="646">Agila</option>
+                                                                                <option  value="14509">Antara</option>
+                                                                                <option  value="191">Astra</option>
+                                                                                <option  value="11958">Combo</option>
+                                                                                <option  selected="selected"  value="193">Corsa</option>
+                                                                                <option  value="18021">Insignia</option>
+                                                                                <option  value="3591">Meriva</option>
+                                                                                <option  value="145592">Mokka</option>
+                                                                                <option  value="145595">Nova</option>
+                                                                                <option  value="3824">Signum</option>
+                                                                                <option  value="201">Tigra</option>
+                                                                                <option  value="202">Vectra</option>
+                                                                                <option  value="15278">Vivaro</option>
+                                                                                <option  value="203">Zafira</option>
                                                     
                                     </select>
 
@@ -833,33 +830,33 @@ $("#sellers").change(function(){
     </div>
 
     <div class="pagination_used">
-        <span class="next"><a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012/0/0/10">Next &raquo;</a></span>    </div>
+        <span class="next"><a href="http://www.cbg.ie/used_cars/opel/corsa/all/0/0/2012/0/0/10">Next &raquo;</a></span>    </div>
 
     
     <section class="listing">    
-                <article class="recomand_dealer " style="background-color:#B7CBF3" >
+                <article class="recomand_dealer " style="background-color:" >
     <div class="ads_list">
         <div class="title_dealer">
-            <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" >
-                <span class="txt_bold">Recommended Dealer:</span> Audi North Dublin            </a>
+            <a href="http://www.cbg.ie/dealer/windsor-airside" >
+                <span class="txt_bold">Recommended Dealer:</span> Windsor Airside Opel            </a>
         </div>
         <div class="ads_img">
             															
-            <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
-                <img src="/uploaded/used_cars_images/410_307/imgf_56b1203aefafe_1.jpg"  alt="Audi A4 2.0L "/>
+            <a href="http://www.cbg.ie/opel-corsa-1.4-2015-dublin-petrol-silver-hatchback-13995-2" title="Opel Corsa 1.4L">
+                <img src="/uploaded/used_cars_images/410_307/imgf_56b08ddd03719_1.jpg"  alt="Opel Corsa 1.4L "/>
             </a>
                     </div>
         <div class="ads_txt">            
             <div class="title">
                 <h3>
-                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
-                        Audi A4 2.0L                    </a>
+                    <a href="http://www.cbg.ie/opel-corsa-1.4-2015-dublin-petrol-silver-hatchback-13995-2" title="Opel Corsa 1.4L">
+                        Opel Corsa 1.4L                    </a>
                 </h3>
-                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
-                <p class="desc_vehicle">4door, White in colour 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon'> [ Read more ] </a></p>                
+                <span class="sub_title">2015  | Co. Dublin | 8,588 M / 13,822 KM <br /> 1.4 Petrol</span>
+                <p class="desc_vehicle">5door, Silver in colour EXCITE 1.4 90PS 5DR The price quoted above is the price without a trade-in and the price with a trade-in is €14,995. This model&#8230; <a href='http://www.cbg.ie/opel-corsa-1.4-2015-dublin-petrol-silver-hatchback-13995-2'> [ Read more ] </a></p>                
             </div>
             <span class="ads_price">
-                <strong>POA</strong>
+                <strong>&euro;13,995</strong>
             </span>
         </div> 
     </div>
@@ -872,13 +869,18 @@ $("#sellers").change(function(){
 </li>
  
 <li>
-    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
+    <a href="http://www.cbg.ie/dealer/windsor-airside" title="Simi Dealer" >
         <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
     </a>
 </li>    
 <li>
     <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
         <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6041648?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
     </a>
 </li>
                             
@@ -889,35 +891,35 @@ $("#sellers").change(function(){
 </li>        </ul>
     </div>
     <div class="ads_more">
-        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">View Details</a>
-        <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
-            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px">
+        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.4-2015-dublin-petrol-silver-hatchback-13995-2" title="Opel Corsa 1.4L">View Details</a>
+        <a class="brand_seller" href="http://www.cbg.ie/dealer/windsor-airside" title="Windsor Airside Opel">
+            <img src="/uploaded/dealers_images/logos/9392_logo_14327380595565d90b26a16.png" alt="Windsor Airside Opel logo" style="max-width:150px">
         </a>
     </div>        
 </article>        <article class="recomand_dealer aa_dealer">
     <div class="ads_list">
         <div class="title_dealer">
             <img alt="" src="/images/approved_dealer_icon.jpg">
-            <a href="http://www.cbg.ie/dealer/dan-seaman-motors" >
-                <span class="txt_bold">AA Dealer:</span> Dan Seaman Motors            </a>
+            <a href="http://www.cbg.ie/dealer/gowan-motors-navan-road-ltd" >
+                <span class="txt_bold">AA Dealer:</span> Gowan Motors Navan Road Ltd            </a>
         </div>
         <div class="ads_img">
             															
-            <a href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">
-                <img src="/uploaded/used_cars_images/410_307/imgf_56b0afa4b90f1_1.jpg"  alt="Audi A4 2.0L "/>
+            <a href="http://www.cbg.ie/opel-1.2-2013-dublin-diesel-grey-hatchback" title="Opel Corsa 1.2L">
+                <img src="/uploaded/used_cars_images/410_307/Gowan_1453615524_1.jpg"  alt="Opel Corsa 1.2L "/>
             </a>
                     </div>
         <div class="ads_txt">
             <div class="title">
                 <h3>
-                    <a href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">
-                        Audi A4 2.0L                    </a>
+                    <a href="http://www.cbg.ie/opel-1.2-2013-dublin-diesel-grey-hatchback" title="Opel Corsa 1.2L">
+                        Opel Corsa 1.2L                    </a>
                 </h3>
-                <span class="sub_title">2014  | Co. Cork | 37,356 M / 60,119 KM <br /> 2.0 Diesel</span>
-                <p class="desc_vehicle">4door, Silver in colour 2.0 TDI 120 4DR-BLUETOOTH-17&quot;ALLOYS-SENSORS-STOP/START FUEL SAVING-GENUINE LOW KM&#39;S-IMMACULATE CAR **IMMACULATE AUDI&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon'> [ Read more ] </a></p>
+                <span class="sub_title">2013  | Co. Dublin | 14,688 M / 23,638 KM <br /> 1.2 Petrol</span>
+                <p class="desc_vehicle">5door, Grey in colour SC 1.2I ECOFLEX 5DRVery Clean Corsa With Low Road Tax. Just Fully Serviced And Finance Arranged. Call Now For A Test Drive. Cash&#8230; <a href='http://www.cbg.ie/opel-1.2-2013-dublin-diesel-grey-hatchback'> [ Read more ] </a></p>
             </div>
             <span class="ads_price">
-                <strong>&euro;29,950</strong>
+                <strong>&euro;11,450</strong>
             </span>
         </div>
     </div>       
@@ -928,13 +930,19 @@ $("#sellers").change(function(){
         <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
     </a>
 </li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/gowan-motors-navan-road-ltd" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
 <li>
     <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
         <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
     </a>
 </li>
 <li>
-    <a href="http://www.cbg.ie/bluestone-motor-finance/6067165?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+    <a href="http://www.cbg.ie/bluestone-motor-finance/5770257?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
         <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
     </a>
 </li>
@@ -946,81 +954,154 @@ $("#sellers").change(function(){
 </li>        </ul>
     </div>
     <div class="ads_more">
-        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2014-cork-diesel-silver-saloon" title="Audi A4 2.0L">View Details</a>
-        <a class="brand_seller" href="http://www.cbg.ie/dealer/dan-seaman-motors" title="Dan Seaman Motors">
-            <img src="/uploaded/dealers_images/logos/190_logo_1449832897566ab1c148fff.png" alt="Dan Seaman Motors logo" style="max-width:150px">
+        <a class="recomand_but" href="http://www.cbg.ie/opel-1.2-2013-dublin-diesel-grey-hatchback" title="Opel Corsa 1.2L">View Details</a>
+        <a class="brand_seller" href="http://www.cbg.ie/dealer/gowan-motors-navan-road-ltd" title="Gowan Motors Navan Road Ltd">
+            <img src="/uploaded/dealers_images/logos/311_logo_1367486698518230eadfed9.jpg" alt="Gowan Motors Navan Road Ltd logo" style="max-width:150px">
         </a>
     </div> 
 </article>
-        <article class="recomand_dealer private">
-    <div class="ads_list">        
-        <div class="title_dealer"><a href="#" >Recommended Private Car</a></div>
-        <div class="ads_img">
-            															
-            <a href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">
-                <img src="/uploaded/used_cars_images/410_307/new_img_142140929554b8fc0fe0c1c.jpg"  alt="Audi A4 2.0L "/>
-            </a>
-                    </div>
-        <div class="ads_txt">            
-            <div class="title">
-                <h3>
-                    <a href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">
-                        Audi A4 2.0L                    </a>
-                </h3>
-                <span class="sub_title">2012  | Co. Dublin | 24,419 M / 39,300 KM <br /> 2.0 Diesel</span>
-                <p class="desc_vehicle">4door, Red in colour Beautiful S-Line A4 Avant - Full Service carried out December 2014, Two new 18&quot; Tyres, tinted windows, black interior. Catches&#8230; <a href='http://www.cbg.ie/Audi_A4_2.0_2012_Dublin'> [ Read more ] </a></p> 
-                            </div>
-            <span class="ads_price">
-                <strong>&euro;29,500</strong>
-            </span>
-        </div>
-    </div>
-    <div class="ads_logos">
-        <ul>
-            <li>
-                <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-                    <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-                </a>
-            </li>
-            <li>
-                <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="_blank">
-                    <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-                </a>
-            </li>
-        </ul>
-    </div>
-    <div class="ads_more">
-        <a class="recomand_but" href="http://www.cbg.ie/Audi_A4_2.0_2012_Dublin" title="Audi A4 2.0L">View Details</a>
-        <a class="recomand_but" href="http://www.cbg.ie/shortlist/add/5770860">Add to Shortlist</a>       
-    </div>
-</article>
-                   
+                                   
                   
-                                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
-<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
-<div id="inPageVideo"></div>
-<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
-<!-- End of JavaScript Tag -->
-</aside>                  
-                 
+                                   
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=58762_2007247&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-2" title="Opel Corsa 1.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b515f5f3c3e_1.jpg"  alt="Opel Corsa 1.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-2" title="Opel Corsa 1.0L">
+                                        Opel Corsa 1.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2014  | Co. Kildare | 44,817 M / 72,126 KM <br /> 1.0 Petrol</span>
+                                <p class="desc_vehicle">4door, Silver in colour S 1.0I 12V 65PS Sale Date: 06/02/2016Sale Time: 10:30Date of Registration: 12/02/2014This car is for auction at Merlin Car Auctions&#8230; <a href='http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-2'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/merlin-car-auctions" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-2" title="Opel Corsa 1.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/merlin-car-auctions" title="Merlin Car Auctions">
+                            <img src="/uploaded/dealers_images/logos/4990_logo_141165139454241742accb2.png" alt="Merlin Car Auctions logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                    
+                <aside class="ad_listing_tablet banner-interstitial"><!-- /179733492/CBG_UsedCars_1_Leader -->
+<div id='div-gpt-ad-1454429627221-1' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-1'); });
+</script>
+</div></aside>
+                                   
+                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=58762_2007240&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-1" title="Opel Corsa 1.0L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b515cb906a4_1.jpg"  alt="Opel Corsa 1.0L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-1" title="Opel Corsa 1.0L">
+                                        Opel Corsa 1.0L                                    </a>
+                                </h3>
+                                <span class="sub_title">2014  | Co. Kildare | 47,337 M / 76,182 KM <br /> 1.0 Petrol</span>
+                                <p class="desc_vehicle">4door, Silver in colour S 1.0I 12V 65PS Sale Date: 06/02/2016Sale Time: 10:30Date of Registration: 18/02/2014Tax Expiry: 29/02/2016This car is for auction&#8230; <a href='http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-1'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>POA</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+ 
+<li>
+    <a href="http://www.cbg.ie/dealer/merlin-car-auctions" title="Simi Dealer" >
+        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
+    </a>
+</li>    
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.0-2014-petrol-silver-mpv-1" title="Opel Corsa 1.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/merlin-car-auctions" title="Merlin Car Auctions">
+                            <img src="/uploaded/dealers_images/logos/4990_logo_141165139454241742accb2.png" alt="Merlin Car Auctions logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                   
                                                 <article class="ad_listing_simple " style="" >
                     <div class="ads_list">
                         <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b12245379fa_1.jpg"  alt="Audi A4 2.0L "/>                                
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.2-2012-sligo" title="Opel Corsa 1.2L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454663515_0.jpg"  alt="Opel Corsa 1.2L "/>                                
                             </a>
                                                     </div>
                         <div class="ads_txt">            
                             <div class="title">
                                 <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.2-2012-sligo" title="Opel Corsa 1.2L">
+                                        Opel Corsa 1.2L                                    </a>
                                 </h3>
-                                <span class="sub_title">2015  | Co. Westmeath | 15,534 M / 25,000 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Black in colour 2.0TDI 150BHP SE S-Line Ext  <a href='http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950'> [ Read more ] </a></p>
+                                <span class="sub_title">2012  | Co. Sligo | 25,476 M / 40,999 KM <br /> 1.2 Petrol</span>
+                                <p class="desc_vehicle">3door, Silver in colour OPEL CORSA 1.2 Petrol Full Opel Service History, Manufacturers warranty, Adjustable steering column/wheel, Air conditioning, Auto&#8230; <a href='http://www.cbg.ie/opel-corsa-1.2-2012-sligo'> [ Read more ] </a></p>
                             </div>
                             <span class="ads_price">
-                                <strong>&euro;38,950</strong>
+                                <strong>&euro;8,950</strong>
                             </span>
                         </div> 
                     </div>
@@ -1036,11 +1117,6 @@ $("#sellers").change(function(){
         <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
     </a>
 </li>
-<li>
-    <a href="http://www.cbg.ie/bluestone-motor-finance/6067757?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
-        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
-    </a>
-</li>
                             
 <li>
     <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
@@ -1049,407 +1125,31 @@ $("#sellers").change(function(){
 </li>                        </ul>
                     </div>
                     <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2015-westmeath-diesel-black-saloon-38950" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/michael-moore-athlone" title="Michael Moore Athlone">
-                            <img src="/uploaded/dealers_images/logos/michaelmoore.gif" alt="Michael Moore Athlone logo" style="max-width:150px;max-height: 60px;">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.2-2012-sligo" title="Opel Corsa 1.2L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/herron-auto-silgo" title="Herron Auto Silgo">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Herron Auto Silgo logo" style="max-width:150px;max-height: 60px;">
                         </a>
                                             </div>  
                     
                     
                         </article>
           
-                  
-                             
-                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
-<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
-<div id="inPageVideo"></div>
-<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
-<!-- End of JavaScript Tag -->
-</aside>                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b120488b53d_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Grey in colour 2.0 TDI 150 Ultra - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>POA</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-grey-saloon" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
-                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                  
-                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b1203aefafe_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, White in colour 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>POA</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin-diesel-white-saloon" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
-                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                  
-                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b12038418bd_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2016  | Co. Dublin | 3,106 M / 5,000 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">5door, White in colour Avant 2.0 TDI 150 S-Line - Audi North Dublin  <a href='http://www.cbg.ie/audi-a4-2.0-2016-dublin'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>POA</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2016-dublin" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-north-dublin-audi-approved-plus" title="Audi North Dublin">
-                            <img src="/uploaded/dealers_images/logos/15002_logo_1366790634517791ea13ade.jpg" alt="Audi North Dublin logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                  
-                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#B7CBF3" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b11f16d0f13_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2015  | Co. Wexford | 310 M / 500 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Blue in colour 2.0TDI 150BHP SE + S Line Exterior Pack  <a href='http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>&euro;35,975</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/audi-wexford-audi-approved-plus" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2015-wexford-diesel-blue-saloon" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/audi-wexford-audi-approved-plus" title="Audi Wexford  Audi Approved Plus">
-                            <img src="/uploaded/dealers_images/logos/1000659_logo_145432485656af3c7803e09.jpg" alt="Audi Wexford  Audi Approved Plus logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
-<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
-<div id="inPageVideo"></div>
-<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
-<!-- End of JavaScript Tag -->
-</aside>                  
-                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#FEFFBD" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=69661_2016634&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b1127038e2a_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2013  | Co. Mayo | 0 M / 0 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4/5door, Silver (metallic) (pearl Effect) in colour 2.0 TDI 120HP Audi Music Interface, Bluetooth Interface, CD Player, Auto Handbrake, Engine Recuperation,&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>&euro;26,950</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-<li>
-    <a href="http://www.cbg.ie/bluestone-motor-finance/6067462?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
-        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2013-mayo-diesel-silver-saloon" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Kevin Connolly Volkswagen (Part of Connolly Motor Group)">
-                            <img src="/uploaded/dealers_images/logos/429_logo_143757431355afa4a97b584.png" alt="Kevin Connolly Volkswagen (Part of Connolly Motor Group) logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                  
-                             
-                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
-<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
-<div id="inPageVideo"></div>
-<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
-<!-- End of JavaScript Tag -->
-</aside>                 
-                                                <article class="ad_listing_simple aa_highlight simi_list_custom_color " style="background-color:#FEFFBD" >
-                    <div class="ads_list">
-                        <div class="ads_img">
-                            <img src="http://images.skupe.net/getImage?URL='noimage'&pubid=301&nref=69661_2016423&height=PHEIGHT&width=PWIDTH&et=search" style="display:none" id="simi_tracking_image" />                            <a href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/imgf_56b11259855cc_1.jpg"  alt="Audi A4 2.0L "/>                                
-                            </a>
-                                                    </div>
-                        <div class="ads_txt">            
-                            <div class="title">
-                                <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
-                                </h3>
-                                <span class="sub_title">2014  | Co. Mayo | 31,689 M / 51,000 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4/5door, Ibis White in colour 2.0TDI 120bhp with up grade alloys Audi Music Interface, Bluetooth Interface, Audi Sound System, Auto Handbrake, Engine&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2014-mayo'> [ Read more ] </a></p>
-                            </div>
-                            <span class="ads_price">
-                                <strong>&euro;29,950</strong>
-                            </span>
-                        </div> 
-                    </div>
-                    <div class="ads_logos">
-                        <ul>
-                            <li>
-    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
-        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
-    </a>
-</li>
- 
-<li>
-    <a href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Simi Dealer" >
-        <img class="simi_small_img" style="width:67;height:37;" src="/images/simi_search_small.jpg" alt="simi">  
-    </a>
-</li>    
-<li>
-    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
-        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
-    </a>
-</li>
-<li>
-    <a href="http://www.cbg.ie/bluestone-motor-finance/6067461?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
-        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
-    </a>
-</li>
-                            
-<li>
-    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
-        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
-    </a>
-</li>                        </ul>
-                    </div>
-                    <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2014-mayo" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/kevin-connolly-volkswagen" title="Kevin Connolly Volkswagen (Part of Connolly Motor Group)">
-                            <img src="/uploaded/dealers_images/logos/429_logo_143757431355afa4a97b584.png" alt="Kevin Connolly Volkswagen (Part of Connolly Motor Group) logo" style="max-width:150px;max-height: 60px;">
-                        </a>
-                                            </div>  
-                    
-                    
-                        </article>
-          
-                  
-                 
+                                   
                                                 <article class="ad_listing_simple " style="" >
                     <div class="ads_list">
                         <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454408422_0.jpg"  alt="Audi A4 2.0L "/>                                
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.0-2012-sligo" title="Opel Corsa 1.0L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454663956_0.jpg"  alt="Opel Corsa 1.0L "/>                                
                             </a>
                                                     </div>
                         <div class="ads_txt">            
                             <div class="title">
                                 <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.0-2012-sligo" title="Opel Corsa 1.0L">
+                                        Opel Corsa 1.0L                                    </a>
                                 </h3>
-                                <span class="sub_title">2012  | Co. Laois | 68,000 M / 109,435 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Black in colour AUDI A4 2.0 Diesel 6 Speed Manual, Alloy wheels, Bi Xenon Lights, Bluetooth, Foglights, Full service history, Parking Sensors,&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-laois'> [ Read more ] </a></p>
+                                <span class="sub_title">2012  | Co. Sligo | 38,525 M / 61,999 KM <br /> 1.0 Petrol</span>
+                                <p class="desc_vehicle">5door, Silver in colour OPEL CORSA 1.0 Petrol This car will soon be ready to demo, for more info or to arrange a demo drive call Joseph on 071 91 56033&#8230; <a href='http://www.cbg.ie/opel-corsa-1.0-2012-sligo'> [ Read more ] </a></p>
                             </div>
                             <span class="ads_price">
                                 <strong>POA</strong>
@@ -1476,35 +1176,41 @@ $("#sellers").change(function(){
 </li>                        </ul>
                     </div>
                     <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-laois" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/john-adams-car-sales" title="John Adams Car Sales">
-                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="John Adams Car Sales logo" style="max-width:150px;max-height: 60px;">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.0-2012-sligo" title="Opel Corsa 1.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/herron-auto-silgo" title="Herron Auto Silgo">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Herron Auto Silgo logo" style="max-width:150px;max-height: 60px;">
                         </a>
                                             </div>  
                     
                     
                         </article>
           
-                  
-                 
-                                                <article class="ad_listing_simple aa_highlight" style="background-color:#E2EDC6" >
+                                    
+                <aside class="ad_listing_tablet banner-interstitial"><!-- /179733492/CBG_UsedCars_2_Leader -->
+<div id='div-gpt-ad-1454429627221-2' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-2'); });
+</script>
+</div></aside>
+                                   
+                                                <article class="ad_listing_simple " style="" >
                     <div class="ads_list">
                         <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454420883_0.jpg"  alt="Audi A4 2.0L "/>                                
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.0-2013-sligo" title="Opel Corsa 1.0L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454664053_0.jpg"  alt="Opel Corsa 1.0L "/>                                
                             </a>
                                                     </div>
                         <div class="ads_txt">            
                             <div class="title">
                                 <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.0-2013-sligo" title="Opel Corsa 1.0L">
+                                        Opel Corsa 1.0L                                    </a>
                                 </h3>
-                                <span class="sub_title">2012  | Co. Dublin | 105,000 M / 168,981 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Black in colour AUDI A4 2.0 Diesel ANOTHER PRE APPROVED AND QUALITY ASSURED CAR FROM RAMILLIES MOTOR COMPANY LTD THE 2012 AUDI A4 2.0 TDI TECNIK&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950'> [ Read more ] </a></p>
+                                <span class="sub_title">2013  | Co. Sligo | 19,778 M / 31,829 KM <br /> 1.0 Petrol</span>
+                                <p class="desc_vehicle">4door, Red in colour OPEL CORSA 1.0 Petrol Balance of Opel 5 Year Warranty, One Owner, Air conditioning, Isofix child seat anchor points, Multiple Airbags,&#8230; <a href='http://www.cbg.ie/opel-corsa-1.0-2013-sligo'> [ Read more ] </a></p>
                             </div>
                             <span class="ads_price">
-                                <strong>&euro;18,950</strong>
+                                <strong>POA</strong>
                             </span>
                         </div> 
                     </div>
@@ -1528,41 +1234,34 @@ $("#sellers").change(function(){
 </li>                        </ul>
                     </div>
                     <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-dublin-diesel-black-saloon-18950" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/ramillies-motor-company" title="Ramillies Motor Company">
-                            <img src="/uploaded/dealers_images/logos/1000587_logo_145339617056a110ca98d52.jpg" alt="Ramillies Motor Company logo" style="max-width:150px;max-height: 60px;">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.0-2013-sligo" title="Opel Corsa 1.0L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/herron-auto-silgo" title="Herron Auto Silgo">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Herron Auto Silgo logo" style="max-width:150px;max-height: 60px;">
                         </a>
                                             </div>  
                     
                     
                         </article>
           
-                  
-                             
-                    <aside class="ad_listing_tablet" style="margin:0 0 10px;"> 
-<!--JavaScript Tag // Tag for network 952: Page 7 Media // Website: New CBG.ie // Page: Used Car Section // Placement: A2 LISTING RESULTS  (5569217) // created at: Jan 23, 2015 4:05:25 PM-->
-<div id="inPageVideo"></div>
-<script  type="text/javascript" async src="//inpagevideo.nl/adServ/placement/id/558"></script>
-<!-- End of JavaScript Tag -->
-</aside>                 
-                                                <article class="ad_listing_simple aa_highlight" style="background-color:#E2EDC6" >
+                                   
+                                                <article class="ad_listing_simple " style="" >
                     <div class="ads_list">
                         <div class="ads_img">
-                                                        <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">
-                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454420923_0.jpg"  alt="Audi A4 2.0L "/>                                
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.2-2013-sligo" title="Opel Corsa 1.2L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454664075_0.jpg"  alt="Opel Corsa 1.2L "/>                                
                             </a>
                                                     </div>
                         <div class="ads_txt">            
                             <div class="title">
                                 <h3>
-                                    <a href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">
-                                        Audi A4 2.0L                                    </a>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.2-2013-sligo" title="Opel Corsa 1.2L">
+                                        Opel Corsa 1.2L                                    </a>
                                 </h3>
-                                <span class="sub_title">2012  | Co. Dublin | 85,000 M / 136,794 KM <br /> 2.0 Diesel</span>
-                                <p class="desc_vehicle">4door, Red in colour AUDI A4 2.0 Diesel ANOTHER PRE APPROVED AND QUALITY ASSURED CAR FROM RAMILLIES MOTOR COMPANY LTD THE 2012 2.0 TDI SE EXECUTIVE NEW&#8230; <a href='http://www.cbg.ie/audi-a4-2.0-2012-dublin'> [ Read more ] </a></p>
+                                <span class="sub_title">2013  | Co. Sligo | 11,888 M / 19,131 KM <br /> 1.2 Petrol</span>
+                                <p class="desc_vehicle">5door, Grey in colour OPEL CORSA 1.2 Petrol ECO Start Stop, Electric mirrors, Electric windows, Foglights, Folding rear seats, Isofix child seat anchor&#8230; <a href='http://www.cbg.ie/opel-corsa-1.2-2013-sligo'> [ Read more ] </a></p>
                             </div>
                             <span class="ads_price">
-                                <strong>&euro;18,950</strong>
+                                <strong>POA</strong>
                             </span>
                         </div> 
                     </div>
@@ -1586,9 +1285,230 @@ $("#sellers").change(function(){
 </li>                        </ul>
                     </div>
                     <div class="ads_more">
-                        <a class="recomand_but" href="http://www.cbg.ie/audi-a4-2.0-2012-dublin" title="Audi A4 2.0L">View Details</a>
-                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/ramillies-motor-company" title="Ramillies Motor Company">
-                            <img src="/uploaded/dealers_images/logos/1000587_logo_145339617056a110ca98d52.jpg" alt="Ramillies Motor Company logo" style="max-width:150px;max-height: 60px;">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.2-2013-sligo" title="Opel Corsa 1.2L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/herron-auto-silgo" title="Herron Auto Silgo">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Herron Auto Silgo logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                   
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.4-2016-dublin-petrol-silver-hatchback" title="Opel Corsa 1.4L">
+                                <img src="/uploaded/used_cars_images/410_307/EXP_da39a3ee5e6b4b0d3255bfef95601890afd807091454676310_0.jpg"  alt="Opel Corsa 1.4L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.4-2016-dublin-petrol-silver-hatchback" title="Opel Corsa 1.4L">
+                                        Opel Corsa 1.4L                                    </a>
+                                </h3>
+                                <span class="sub_title">2016  | Co. Dublin | 0 M / 0 KM <br /> 1.4 Petrol</span>
+                                <p class="desc_vehicle">5door, Silver in colour OPEL CORSA 1.4 Petrol Electric Mirrors,Electric Windows,iPod Connection,Multi-Function Steering Wheel,Power Steering,Split Fold&#8230; <a href='http://www.cbg.ie/opel-corsa-1.4-2016-dublin-petrol-silver-hatchback'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;17,850</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.4-2016-dublin-petrol-silver-hatchback" title="Opel Corsa 1.4L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/cranley-cars-ltd" title="Cranley Cars Ltd.">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Cranley Cars Ltd. logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                    
+                <aside class="ad_listing_tablet banner-interstitial"><!-- /179733492/CBG_UsedCars_3_Leader -->
+<div id='div-gpt-ad-1454429627221-3' style='height:90px; width:728px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-3'); });
+</script>
+</div></aside>
+                                   
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.2-2014" title="Opel Corsa 1.2L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b5c2fcc3cc6_1.jpg"  alt="Opel Corsa 1.2L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.2-2014" title="Opel Corsa 1.2L">
+                                        Opel Corsa 1.2L                                    </a>
+                                </h3>
+                                <span class="sub_title">2014  | Co. Tipperary | 5,903 M / 9,500 KM <br /> 1.2 Petrol</span>
+                                <p class="desc_vehicle">4door, Blue in colour EXCITE 1.2I 4DR Call today for a competitive trade in price. All our cars are prepared to the highest order with full service, NCT,&#8230; <a href='http://www.cbg.ie/opel-corsa-1.2-2014'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;13,750</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.2-2014" title="Opel Corsa 1.2L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/horse-jockey-car-sales" title="Horse & Jockey Car Sales">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Horse & Jockey Car Sales logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                   
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.2-2012" title="Opel Corsa 1.2L">
+                                <img src="/uploaded/used_cars_images/410_307/imgf_56b4617b31343_1.jpg"  alt="Opel Corsa 1.2L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.2-2012" title="Opel Corsa 1.2L">
+                                        Opel Corsa 1.2L                                    </a>
+                                </h3>
+                                <span class="sub_title">2012  | Co. Dublin | 31,069 M / 50,000 KM <br /> 1.2 Petrol</span>
+                                <p class="desc_vehicle">door, Black in colour 1.2 SC 5-DOOR NEW NCT JANUARY 2018 DRIVE AWAY TODAY IN THIS AMAZING VALUE OPEL CORSA 1.2i SC 5-DOOR HATCHBACK. THIS IS A TWO-OWNER,&#8230; <a href='http://www.cbg.ie/opel-corsa-1.2-2012'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;8,450</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6070064?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.2-2012" title="Opel Corsa 1.2L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/leinster-motor-group" title="Leinster Motor Group">
+                            <img src="/uploaded/dealers_images/logos/defaultDealerLogo.gif" alt="Leinster Motor Group logo" style="max-width:150px;max-height: 60px;">
+                        </a>
+                                            </div>  
+                    
+                    
+                        </article>
+          
+                                   
+                                                <article class="ad_listing_simple " style="" >
+                    <div class="ads_list">
+                        <div class="ads_img">
+                                                        <a href="http://www.cbg.ie/opel-corsa-1.2-2013-dublin-petrol-red-hatchback" title="Opel Corsa 1.2L">
+                                <img src="/images/NoPhoto.gif"  alt="Opel Corsa 1.2L "/>                                
+                            </a>
+                                                    </div>
+                        <div class="ads_txt">            
+                            <div class="title">
+                                <h3>
+                                    <a href="http://www.cbg.ie/opel-corsa-1.2-2013-dublin-petrol-red-hatchback" title="Opel Corsa 1.2L">
+                                        Opel Corsa 1.2L                                    </a>
+                                </h3>
+                                <span class="sub_title">2013  | Co. Dublin | 15,534 M / 24,999 KM <br /> 1.2 Petrol</span>
+                                <p class="desc_vehicle">5door, Red in colour 1.2 Petrol SC--Low mileage--Finance arranged--Trade-ins welcome Alloy Wheels, Electric Windows, Central Locking, Drivers Air Bag,&#8230; <a href='http://www.cbg.ie/opel-corsa-1.2-2013-dublin-petrol-red-hatchback'> [ Read more ] </a></p>
+                            </div>
+                            <span class="ads_price">
+                                <strong>&euro;11,950</strong>
+                            </span>
+                        </div> 
+                    </div>
+                    <div class="ads_logos">
+                        <ul>
+                            <li>
+    <a href="http://www.theaa.ie/AA/AA-Membership.aspx" title="AA Dealer" target="_blank">
+        <img alt="aa membership logo" src="/images/dealers/aa/aa-membership-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/car-history-check" title="Car History Check" target="_blank" >
+        <img alt="motorcheck logo" src="/images/parteners/motorcheck/motorcheck-logo-67-37.jpg">
+    </a>
+</li>
+<li>
+    <a href="http://www.cbg.ie/bluestone-motor-finance/6069812?iframe=true&width=730&height=640" rel="prettyPhoto[bluestone]">
+        <img alt="" src="/images/dealers/bluestone/bluestone-finance-67-37.jpg">
+    </a>
+</li>
+                            
+<li>
+    <a href="http://www.theaa.ie/AA/Vehicle-checks/Car-Inspection.aspx?icid=cbgct" title="Car Inspection" target="blank">
+        <img alt="" src="/images/dealers/aa/aa-car-inspection-67-37.jpg" alt="aa car inspection logo">
+    </a>
+</li>                        </ul>
+                    </div>
+                    <div class="ads_more">
+                        <a class="recomand_but" href="http://www.cbg.ie/opel-corsa-1.2-2013-dublin-petrol-red-hatchback" title="Opel Corsa 1.2L">View Details</a>
+                                                <a class="brand_seller" href="http://www.cbg.ie/dealer/sandyford-motor-centre-main-opel-mazda-dealer" title="Sandyford Motor Centre (Main Opel & Mazda Dealer)">
+                            <img src="/uploaded/dealers_images/logos/sandyfordmotorcentre.gif" alt="Sandyford Motor Centre (Main Opel & Mazda Dealer) logo" style="max-width:150px;max-height: 60px;">
                         </a>
                                             </div>  
                     
@@ -1601,17 +1521,17 @@ $("#sellers").change(function(){
         <aside class="page_options bottom">
 
             <div class="block_options" style="float:left;">
-                <span class="nr">Viewing 1-10 of 336</span>
+                <span class="nr">Viewing 1-10 of 254</span>
             </div>
             <div class="buttons" style="float:right;width:auto;">
-    <span class="next"><a href="http://www.cbg.ie/used_cars/audi/a4/all/0/0/2012/0/0/10">Next &raquo;</a></span>            </div>
+    <span class="next"><a href="http://www.cbg.ie/used_cars/opel/corsa/all/0/0/2012/0/0/10">Next &raquo;</a></span>            </div>
 
         </aside>
     <aside class="adv_ful">
 
     </aside>
     <div class="search_info">
-        <p>You have searched for a Audi&nbsp;A4 in  Ireland. CBG.ie (Car Buyers Guide) have a great choice of cars for sale in Ireland. We have similar cars for sale in nearby areas to Ireland. We recommend widening your auto search and view all cars for sale in Ireland or filter to see only cars in Ireland. As well as Ireland cars for sale, CBG.ie have New Cars in Ireland to buy including jeeps, saloons, luxery, hatchbacks, estates, MPVs, Coupes and we have excellent to help you pick the perfect car.</p>
+        <p>You have searched for a Opel&nbsp;Corsa in  Ireland. CBG.ie (Car Buyers Guide) have a great choice of cars for sale in Ireland. We have similar cars for sale in nearby areas to Ireland. We recommend widening your auto search and view all cars for sale in Ireland or filter to see only cars in Ireland. As well as Ireland cars for sale, CBG.ie have New Cars in Ireland to buy including jeeps, saloons, luxery, hatchbacks, estates, MPVs, Coupes and we have excellent to help you pick the perfect car.</p>
     </div>
 
 
@@ -1626,9 +1546,9 @@ $("#sellers").change(function(){
     
     <div class="bannerMPU">
 <!-- /179733492/CBG_UsedCars_Sky -->
-<div id='div-gpt-ad-1441036667905-5'>
+<div id='div-gpt-ad-1454429627221-9'>
 <script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-5'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-9'); });
 </script>
 </div>    </div>
 
@@ -1791,12 +1711,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-5');
 
 </script>
     
-                <div id='div-gpt-ad-1441036667905-2'>
+                <div class="full banner-bott-lb"><div id='div-gpt-ad-1441036667905-2'>
 <script type='text/javascript'>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-2'); });
 </script>
 </div>
- 
+</div>
             </div>
     </div>
 
@@ -1878,7 +1798,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-2');
                         <a style="display:inline-block; margin:0 0px 15px 15px;" href="https://www.pinterest.com/cbg_ie/" rel="publisher" title="Pinterest"><img src="http://www.cbg.ie/images/social/pinterest-icon.png" alt="pinterest" /></a>
                                                 
 			<a class="logo_footer" href="#" title="#"><img src="http://www.cbg.ie/images/logo_footer.png" alt="cgb"/></a>
-			<br /><span>Copyright CBG.ie <br />Published by Page7Media.ie </span>  <span style="font-size: 8px;"><br />Elapsed Time : 0.1783</span>
+			<br /><span>Copyright CBG.ie <br />Published by Page7Media.ie </span>  <span style="font-size: 8px;"><br />Elapsed Time : 0.4767</span>
 		</div>
 	</div>
     <script type="text/javascript">
@@ -1927,21 +1847,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-2');
 
 
 
-<script src="/js/cookiecuttr/jquery-cookie/jquery.cookie.js"></script>
-<script src="/js/cookiecuttr/jquery.cookiecuttr.js"></script>
-<link rel="stylesheet" href="/js/cookiecuttr/cookiecuttr.css">
-<script>
-    $(document).ready(function() {
-        $.cookieCuttr();              
-    });
-</script>
-
-<script type='text/javascript' src='http://www.cbg.ie/js/jquery.autosize.min.js'></script>
-<!-- /179733492/CBG_Used_Wallpaper -->
-<div id='div-gpt-ad-1441036667905-0' style='height:1px; width:1px;'>
+    <script src="/js/cookiecuttr/jquery-cookie/jquery.cookie.js"></script>
+    <script src="/js/cookiecuttr/jquery.cookiecuttr.js"></script>
+    <link rel="stylesheet" href="/js/cookiecuttr/cookiecuttr.css">
+    <script>
+        $(document).ready(function() {
+            $.cookieCuttr();              
+        });
+    </script>
+        <script type='text/javascript' src='http://www.cbg.ie/js/jquery.autosize.min.js'></script>
+        <!-- /179733492/CBG_Used_Wallpaper -->
+<div id='div-gpt-ad-1454429627221-0' style='height:1px; width:1px;'>
 <script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441036667905-0'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454429627221-0'); });
 </script>
-</div>    <script type="text/javascript" src="/js/index.js" async ></script>
-        </body>
+</div>            <script type="text/javascript" src="/js/index.js" async ></script>
+                </body>
 </html>

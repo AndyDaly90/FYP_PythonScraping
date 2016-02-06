@@ -2,20 +2,15 @@ from __future__ import print_function
 import urllib
 from bs4 import BeautifulSoup
 
-make = "audi"
-model = "a4"
-site = "cbg"
+make = raw_input("Enter Make: ")
+model = raw_input("Enter Model: ")
+site = raw_input("Enter site: ")
 
 # make = raw_input("Enter car make: ")
 # model = raw_input("Enter car model: ")
 #  = raw_input("Enter web site to scrape: ")
 
 min_year = "2012"
-
-
-def get_car_data(car_make, car_model, car_site):
-    print(car_make, car_model)
-
 
 def strip_html_tags(htmlTxt):
     if htmlTxt is None:
@@ -52,8 +47,9 @@ else:
 
 def main():
     clean_file = open("html/" + make + model + site + "REFINED_HTML.txt", "r+")
-    a = strip_html_tags(clean_file)
-    print(a)
+    cleanResult = strip_html_tags(clean_file)
+    print(cleanResult)
+    clean_file.write(cleanResult)
     clean_file.close()
 #jhgfds
 if __name__ == '__main__':
