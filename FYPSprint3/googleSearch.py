@@ -1,3 +1,4 @@
+from __future__ import print_function
 import mechanize
 from bs4 import BeautifulSoup
 import re
@@ -11,6 +12,7 @@ def split_links(data):
     """
     _link = re.split('&|%', data)
     return _link
+
 
 # create a browser instance
 browser = mechanize.Browser()
@@ -26,18 +28,20 @@ area = "kerry"
 sites = ["cbg", "carsIreland", "adverts.ie", "carzone"]
 
 for site in sites:
-    request = "http://www.google.ie/search?q=used+%s+%s+%s+%s" % (make, model, site, area)
-    result = browser.open(request).read()
+    google_request = "http://www.google.ie/search?q=used+%s+%s+%s+%s" % (make, model, site, area)
+    result = browser.open(google_request).read()
     # Parse Div
     soup = BeautifulSoup(result, 'html.parser')
-    search = soup.find_all('div', attrs={'id': 'ires'})
+    search_div = soup.find_all('div', attrs={'id': 'ires'})
     # Container for all links in search result
-    searchText = str(search[0])
+    searchText = str(search_div[0])
     # print(searchText)
 
     link = BeautifulSoup(searchText, 'html.parser')
     list_items = link.find_all('a')
-    items = str(list_items)
-    a = re.findall('http://"?\'?([^"\'>]*)', items)
-    data = split_links(str(a))
-    print data
+    itemsAsString = str(list_items)
+
+    regex = re.findall('q="?\'?([^"\'>]*)', itemsAsString)
+    data = split_links(str(regex))
+    url = data[0]
+    print(url)
