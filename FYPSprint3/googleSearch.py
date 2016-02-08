@@ -6,11 +6,11 @@ import re
 def split_links(data):
     """
     Split 'href' links, so that they are usable
+    :rtype: href link
     :param data:
     """
     _link = re.split('&|%', data)
-    print _link
-
+    return _link
 
 # create a browser instance
 browser = mechanize.Browser()
@@ -37,6 +37,7 @@ for site in sites:
 
     link = BeautifulSoup(searchText, 'html.parser')
     list_items = link.find_all('a')
-
     items = str(list_items)
-    split_links(items)
+    a = re.findall('http://"?\'?([^"\'>]*)', items)
+    data = split_links(str(a))
+    print data
