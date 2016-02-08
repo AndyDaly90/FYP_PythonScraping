@@ -29,6 +29,13 @@ def get_links(_make, _model, _site, _area):
     return item_as_string
 
 
+def is_full_link(_link, _model):
+    if not _model in _link:
+        return False
+
+
+
+# MAIN
 browser = mechanize.Browser()  # create a browser instance
 browser.set_handle_robots(False)  # I don't want my browser to be seen as a robot.
 browser.addheaders = [('User-Agent', 'Mozilla/5.0')]
@@ -45,4 +52,10 @@ for site in sites:
     url = data[0]  # Urls contained in first index of result
 
     clean_url = url[2:]  # Full URL to allow for network requests
-    print(clean_url)
+
+    if not is_full_link(clean_url, model):
+        clean_url = clean_url+"/"+model
+        print(clean_url)
+
+
+
