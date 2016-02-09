@@ -2,6 +2,7 @@ from __future__ import print_function
 import mechanize
 from bs4 import BeautifulSoup
 import re
+import urllib
 
 
 def split_links(data):
@@ -30,9 +31,10 @@ def get_links(_make, _model, _site, _area):
 
 
 def is_full_link(_link, _model):
-    if not _model in _link:
+    if not _model[1:].lower() in _link: # if model Lower
         return False
-
+    else:
+        return True
 
 
 # MAIN
@@ -43,7 +45,7 @@ browser.addheaders = [('User-Agent', 'Mozilla/5.0')]
 make = "audi"
 model = "a4"
 area = "kerry"
-sites = ["cbg", "carsIreland", "adverts.ie", "carzone"]
+sites = ["cbg", "carsIreland", "adverts.ie", "carzone", "donedeal"]
 
 for site in sites:
     links = get_links(make, model, site, area)
@@ -52,10 +54,12 @@ for site in sites:
     url = data[0]  # Urls contained in first index of result
 
     clean_url = url[2:]  # Full URL to allow for network requests
+    print(clean_url)
 
-    if not is_full_link(clean_url, model):
-        clean_url = clean_url+"/"+model
-        print(clean_url)
+# if not is_full_link(str(clean_url), model):
+#        clean_urls = clean_url + "/" + model
+#        print(clean_urls)
 
-
-
+# htmlFile = urllib.urlopen(clean_url)
+# htmlText = htmlFile.read()
+# print(htmlText)
