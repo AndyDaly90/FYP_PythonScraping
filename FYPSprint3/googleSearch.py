@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from __future__ import print_function
 import mechanize
 from bs4 import BeautifulSoup
@@ -30,22 +32,16 @@ def get_links(_make, _model, _site, _area):
     return item_as_string
 
 
-def is_full_link(_link, _model):
-    if not _model[1:].lower() in _link: # if model Lower
-        return False
-    else:
-        return True
-
-
 # MAIN
 browser = mechanize.Browser()  # create a browser instance
 browser.set_handle_robots(False)  # I don't want my browser to be seen as a robot.
 browser.addheaders = [('User-Agent', 'Mozilla/5.0')]
 
+
 make = "audi"
 model = "a4"
 area = "kerry"
-sites = ["cbg", "carsIreland", "adverts.ie", "carzone", "donedeal"]
+sites = ["cbg", "carsIreland", "adverts.ie"]
 
 for site in sites:
     links = get_links(make, model, site, area)
@@ -56,10 +52,18 @@ for site in sites:
     clean_url = url[2:]  # Full URL to allow for network requests
     print(clean_url)
 
-# if not is_full_link(str(clean_url), model):
-#        clean_urls = clean_url + "/" + model
-#        print(clean_urls)
+    htmlFile = urllib.urlopen(clean_url)
+    htmlText = htmlFile.read()
+    title = BeautifulSoup(htmlText, 'html.parser')
+    print(title.title)
 
-# htmlFile = urllib.urlopen(clean_url)
-# htmlText = htmlFile.read()
-# print(htmlText)
+    # ^\d{1,3}(,\d{3})*(\.\d+)?$
+    pattern = '(euro;\d+,\d+|\d+,\d+)'
+    regex = re.compile(pattern)
+
+    prices = re.findall(regex, htmlText)
+    for p in prices:
+        if str('euro;') in p:
+            p.replace('euro;', '€')
+
+        print(p)
