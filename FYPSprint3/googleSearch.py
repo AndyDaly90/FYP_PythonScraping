@@ -4,8 +4,15 @@ from __future__ import print_function
 import mechanize
 from bs4 import BeautifulSoup
 import re
-import urllib
+import urllib2
 
+def clean_link(data):
+    """
+    Removes garbage from URL.
+    :rtype : String URL
+    """
+    url = re.findall('[a-z]+[:.].*?(?=\s)', data)
+    return url
 
 def split_links(data):
     """
@@ -22,14 +29,16 @@ def get_links(_make, _model, _site, _area):
     result = browser.open(google_request).read()
     # Parse Div
     soup = BeautifulSoup(result, 'html.parser')
-    search_div = soup.find_all('div', attrs={'id': 'ires'})
+    search_div = soup.find_all('h3', attrs={'class': 'r'})
     # Container for all links in search result
     search_text = str(search_div[0])
 
     google_links = BeautifulSoup(search_text, 'html.parser')
     list_items = google_links.find_all('a')
     all_links = str(list_items)
+    #print(all_links)
     return all_links
+
 
 
 def get_car_info(_page):
@@ -47,21 +56,27 @@ browser.addheaders = [('User-Agent', 'Mozilla/5.0')]
 make = raw_input("Enter Make: ")
 model = raw_input("Enter Model: ")
 area = "kerry"
-sites = ["cbg", "carsIreland", "adverts"]
+sites = ["donedeal.ie"]
+
 
 for site in sites:
     links = get_links(make, model, site, area)
-    regex = re.findall('[a-z]+[:.].*?(?=\s)', links)
-    data = split_links(str(regex))
+    cleanedLink = clean_link(links)
+    cleanedLink = str(cleanedLink[0])
+
+    # Temporary fix, look at http character encoding
+    cleanedLink = cleanedLink.replace('%3F', '?')
+    cleanedLink = cleanedLink.replace('%3D', '=')
+
+    data = split_links(str(cleanedLink))
     url = data[0]  # Urls contained in first index of result
 
-    clean_url = url[2:]  # Full URL to allow for network requests
-    print(clean_url)
-
-    htmlFile = urllib.urlopen(clean_url)
+    print(url)
+    htmlFile = urllib2.urlopen(url)
     htmlText = htmlFile.read()
     html_page = BeautifulSoup(htmlText, 'html.parser')
     print(html_page.title)
+    print(htmlText)
 
     pattern = '(euro;\d+,\d+|\€\d{2},\d{3})'
     regex = re.compile(pattern)
