@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 from __future__ import print_function
 import mechanize
 from bs4 import BeautifulSoup
@@ -12,11 +11,13 @@ class CarCrawler:
     def clean_URL(self, data):
         """
         In order to make requests across the network I need a clean URL (example : http://www.desiquintans.com/articles/).
+        This method takes in an unsuitable URL and returns the desired result.
         This is done by using a regular expression along with some string splitting & string replacing.
         :rtype : String URL
         """
         url = re.findall('[a-z]+[:.].*?(?=\s)', data)
-        formatted_url = url[0].replace('%3D', '=').replace('%3F', '?')
+        if '%3D' or '%3F' in url:
+            formatted_url = url[0].replace('%3D', '=').replace('%3F', '?').replace('%20', '+')
         cleaned_url = re.split('&|%', formatted_url)
         return cleaned_url
 
@@ -47,6 +48,13 @@ class CarCrawler:
         return dirty_url
 
     def get_car_info(self, _page):
+        """
+        This method looks for keywords in html source.
+        These keywords are typically contained in divs
+        that hold the desired data.
+        :param _page: HTML source
+        :rtype: str
+        """
         car_info = {'class': re.compile("esc|grid-card")}  # Pattern 'esc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         all_info = _page.findAll(attrs=car_info)
         for info in all_info:
