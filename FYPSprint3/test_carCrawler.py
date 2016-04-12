@@ -22,7 +22,3 @@ class TestCarCrawler(TestCase):
     def test_get_web_page(self):
         with self.assertRaises(urllib2.URLError):
             CarCrawler.get_web_page(self.carCrawler, "http://pagedoesnotexist.com")
-
-    def test_get_car_prices(self):
-        pass
-
