@@ -8,7 +8,6 @@ import urllib2
 
 
 class CarCrawler:
-
     def clean_URL(self, data):
         """
         In order to make requests across the network I need a clean URL (example : http://www.desiquintans.com/articles/).
@@ -48,18 +47,21 @@ class CarCrawler:
         return dirty_url
 
     def get_car_info(self, _page):
-        car_info = {'class': re.compile("desc|grid-card|advert-details")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        car_info = {
+            'class': re.compile("desc|grid-card|advert-details")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         all_info = _page.findAll(attrs=car_info)
         for info in all_info:
             print(info.text)
 
-
-
     def get_web_page(self, url):
-        htmlFile = urllib2.urlopen(url)
-        htmlText = htmlFile.read()
-        html_page = BeautifulSoup(htmlText, 'html.parser')
-        return  html_page
+        try:
+            urllib2.urlopen(url)
+        except urllib2.URLError, error:
+            print(error.args)
+        html_file = urllib2.urlopen(url)
+        html_text = html_file.read()
+        html_page = BeautifulSoup(html_text, 'html.parser')
+        return html_page
 
     def get_car_prices(self, web_page):
         list = []
@@ -70,4 +72,3 @@ class CarCrawler:
             print(p)
             list.append("%r" % p)
         return list
-
