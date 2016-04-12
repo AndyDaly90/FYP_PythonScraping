@@ -5,6 +5,7 @@ import mechanize
 from bs4 import BeautifulSoup
 import re
 import urllib2
+import sys
 
 
 class CarCrawler:
@@ -51,7 +52,7 @@ class CarCrawler:
             'class': re.compile("desc|grid-card|advert-details")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         all_info = _page.findAll(attrs=car_info)
         for info in all_info:
-            print(info.text)
+            print(info.text.encode(sys.stdout.encoding, errors='replace'))
 
     def get_web_page(self, url):
         try:

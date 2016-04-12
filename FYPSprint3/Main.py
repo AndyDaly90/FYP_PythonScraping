@@ -7,7 +7,7 @@ if __name__ == '__main__':
     make = raw_input("Enter Make: ")
     model = raw_input("Enter Model: ")
     area = "kerry"
-    sites = ["carsIreland", "cbg", "donedeal", "adverts", "walshautos.com"]
+    sites = ["carsIreland", "cbg", "donedeal", "adverts"]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, site, area)
