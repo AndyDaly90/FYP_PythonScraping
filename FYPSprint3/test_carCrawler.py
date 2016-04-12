@@ -9,7 +9,7 @@ class TestCarCrawler(TestCase):
         self.carCrawler = CarCrawler()
 
     def test_clean_URL(self):
-        pass
+        self.fail()
 
     def test_perform_google_search(self):
         pass
