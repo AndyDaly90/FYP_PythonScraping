@@ -7,11 +7,11 @@ if __name__ == '__main__':
     make = raw_input("Enter Make: ")
     model = raw_input("Enter Model: ")
     area = "kerry"
-    sites =  ["carsireland", "cbg"]
+    sites = ["carsIreland", "cbg", "donedeal", "adverts", "walshautos.com"]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, site, area)
-        dirtyURL = web_crawler.getURL(searchResult)
+        dirtyURL = web_crawler.get_url(searchResult)
         cleanedURL = web_crawler.clean_URL(dirtyURL)
 
         url = cleanedURL[0]

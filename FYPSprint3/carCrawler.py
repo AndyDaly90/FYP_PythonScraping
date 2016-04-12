@@ -29,7 +29,7 @@ class CarCrawler:
         result = browser.open(google_request).read()
         return result
 
-    def getURL(self, search_result):
+    def get_url(self, search_result):
         """
         This method takes a google search result (HTML).
         The method uses Beautiful soup to extract the top URL from
@@ -47,10 +47,12 @@ class CarCrawler:
         return dirty_url
 
     def get_car_info(self, _page):
-        car_info = {'class': re.compile("esc|grid-card")}  # Pattern 'esc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        car_info = {'class': re.compile("desc|grid-card|advert-details")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         all_info = _page.findAll(attrs=car_info)
         for info in all_info:
             print(info.text)
+
+
 
     def get_web_page(self, url):
         htmlFile = urllib2.urlopen(url)
