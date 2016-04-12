@@ -15,10 +15,11 @@ class CarCrawler:
         This is done by using a regular expression along with some string splitting & string replacing.
         :rtype : String URL
         """
+
         url = re.findall('[a-z]+[:.].*?(?=\s)', data)
         formatted_url = url[0].replace('%3D', '=').replace('%3F', '?')
         cleaned_url = re.split('&|%', formatted_url)
-        return cleaned_url
+        return cleaned_url[0]
 
     def perform_google_search(self, _make, _model, _site, _area):
         browser = mechanize.Browser()  # create a browser instance

@@ -9,7 +9,9 @@ class TestCarCrawler(TestCase):
         self.carCrawler = CarCrawler()
 
     def test_clean_URL(self):
-        pass
+        test = CarCrawler.clean_URL(self.carCrawler, "<a href='/url?q=http://www.carsireland.ie/county/kerry/opel/astra/search-results.php%3Flocation_id%3D13")
+        result = "www.donedeal.ie=?"
+        self.assertEqual(test, result)
 
     def test_perform_google_search(self):
         pass

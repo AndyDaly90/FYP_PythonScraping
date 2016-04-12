@@ -14,7 +14,7 @@ if __name__ == '__main__':
         dirtyURL = web_crawler.get_url(searchResult)
         cleanedURL = web_crawler.clean_URL(dirtyURL)
 
-        url = cleanedURL[0]
+        url = cleanedURL
         print(url)
 
         webPage = web_crawler.get_web_page(url)
