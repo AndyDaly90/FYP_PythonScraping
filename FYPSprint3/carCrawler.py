@@ -52,7 +52,7 @@ class CarCrawler:
 
     def get_car_info(self, _page):
         car_info = {
-            'class': re.compile("desc|grid-card|details")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            'class': re.compile("desc|grid-card|details|price")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         all_info = _page.findAll(attrs=car_info)
         for info in all_info:
             print(info.text.encode('utf-8', errors='replace'))
