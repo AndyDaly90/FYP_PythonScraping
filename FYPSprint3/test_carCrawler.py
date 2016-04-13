@@ -1,4 +1,5 @@
 import urllib2
+import mechanize
 from unittest import TestCase
 from FYPSprint3.carCrawler import CarCrawler
 __author__ = 'Andrew'
@@ -16,8 +17,8 @@ class TestCarCrawler(TestCase):
         self.assertEqual(expected_url, actual_url)
 
     def test_perform_google_search(self):
-        result = '<!doctyppe html>'
-        self.assertTrue(self, result in self.searchResult)
+        with self.assertRaises(mechanize.HTTPError):
+            CarCrawler.perform_google_search(self.carCrawler, "audi", "a4", "parkers      uk", "kerry")
 
     def test_get_web_page(self):
         with self.assertRaises(urllib2.URLError):
