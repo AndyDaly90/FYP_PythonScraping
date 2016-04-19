@@ -18,7 +18,7 @@ class TestCarCrawler(TestCase):
 
     def test_perform_google_search(self):
         with self.assertRaises(mechanize.HTTPError):
-            CarCrawler.perform_google_search(self.carCrawler, "audi", "a4", "parkers      uk", "kerry")
+            CarCrawler.perform_google_search(self.carCrawler, "audi", "a4", "parkerssss      uk", "kerry")
 
     def test_get_web_page(self):
         with self.assertRaises(urllib2.URLError):
