@@ -13,7 +13,7 @@ class TestCarCrawler(TestCase):
 
     def test_clean_URL(self):
         expected_url = CarCrawler.clean_URL(self.carCrawler, self.dirtyURL)
-        actual_url = "http://www.carsireland.ie/county/kerry/audi/a4/search-results.php?location_id=13"
+        actual_url = "http://www.carsireland.ie/county/kerry/audi/a4/search-results.php?location_id=13&make_id=7&model_id=43"
         self.assertEqual(expected_url, actual_url)
 
     def test_perform_google_search(self):
