@@ -5,12 +5,12 @@ from carCrawler import CarCrawler
 if __name__ == '__main__':
     web_crawler = CarCrawler()
 
-   # make = raw_input("Enter Make: ")
-   # model = raw_input("Enter Model: ")
+    #make = raw_input("Enter Make: ")
+    #model = raw_input("Enter Model: ")
     make = sys.argv[1]
     model = sys.argv[2]
     area = "kerry"
-    sites = ["carsIreland", "cbg", "donedeal", "adverts", "beepbeep", "parkersuk"]
+    sites = ["dondeal", "adverts.ie", "cbg"]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, site, area)
