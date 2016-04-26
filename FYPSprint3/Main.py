@@ -1,8 +1,6 @@
 import sys
 # -*- coding: utf-8 -*-
 from carCrawler import CarCrawler
-import matplotlib.pyplot as plt
-import numpy as np
 if __name__ == '__main__':
     web_crawler = CarCrawler()
 
