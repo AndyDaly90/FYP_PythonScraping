@@ -64,7 +64,7 @@ def get_web_page(url):
 
 def get_car_info(_page):
     car_info = {
-        'class': re.compile("desc|grid-card|details|price")}  # Pattern 'desc' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        'class': re.compile("desc|grid-card|details|price")} 
     info_list = []
     all_info = _page.findAll(attrs=car_info)
     for info in all_info:
