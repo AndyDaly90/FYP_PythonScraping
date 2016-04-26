@@ -11,7 +11,7 @@ if __name__ == '__main__':
     make = sys.argv[1]
     model = sys.argv[2]
     area = "kerry"
-    sites = ["donedeal","cbg", "adverts", "everycar"]
+    sites = ["donedeal","cbg", "adverts"]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, area, site)
