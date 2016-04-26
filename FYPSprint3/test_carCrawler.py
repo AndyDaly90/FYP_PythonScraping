@@ -1,7 +1,7 @@
 import urllib2
 import mechanize
 from unittest import TestCase
-from FYPSprint3.carCrawler import CarCrawler
+from carCrawler import CarCrawler
 __author__ = 'Andrew'
 
 
