@@ -2,6 +2,7 @@ from sys import argv
 import sys
 # -*- coding: utf-8 -*-
 import car_crawler
+
 if __name__ == '__main__':
     web_crawler = car_crawler
 
@@ -26,6 +27,10 @@ if __name__ == '__main__':
             print("Not Running Inside VE")
         else:
             print("Running Inside Virtual Environment")
+
+
+
+
 
 
 
