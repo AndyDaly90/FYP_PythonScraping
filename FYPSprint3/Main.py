@@ -1,4 +1,5 @@
 from sys import argv
+import sys
 # -*- coding: utf-8 -*-
 import car_crawler
 if __name__ == '__main__':
@@ -21,6 +22,11 @@ if __name__ == '__main__':
 
         years = web_crawler.get_car_year(webPage)
         prices = web_crawler.get_car_prices(info)
+        if hasattr(sys, 'real_prefix'):
+            print("Not Running Inside VE")
+        else:
+            print("Running Inside Virtual Environment")
+
 
 
 

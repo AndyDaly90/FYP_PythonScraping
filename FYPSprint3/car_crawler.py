@@ -22,7 +22,7 @@ def clean_url(data):
 
 def perform_google_search(_make, _model, _site, _area):
     browser = mechanize.Browser()
-    browser.set_handle_robots(False)  
+    browser.set_handle_robots(False)
     browser.addheaders = [('User-Agent', 'Mozilla/5.0')]
     google_request = "http://www.google.ie/search?q=used+%s+%s+%s+%s" % (_make, _model, _site, _area)
     try:
@@ -63,8 +63,7 @@ def get_web_page(url):
 
 
 def get_car_info(_page):
-    car_info = {
-        'class': re.compile("desc|grid-card|details|price")}
+    car_info = {'class': re.compile("desc|grid-card|details")}
     info_list = []
     all_info = _page.findAll(attrs=car_info)
     for info in all_info:
