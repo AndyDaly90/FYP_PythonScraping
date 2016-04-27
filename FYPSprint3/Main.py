@@ -1,6 +1,7 @@
 from sys import argv
 # -*- coding: utf-8 -*-
 import car_crawler
+
 if __name__ == '__main__':
     web_crawler = car_crawler
 
@@ -21,6 +22,10 @@ if __name__ == '__main__':
 
         years = web_crawler.get_car_year(webPage)
         prices = web_crawler.get_car_prices(info)
+
+
+
+
 
 
 
