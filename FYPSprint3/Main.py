@@ -6,8 +6,8 @@ if __name__ == '__main__':
     web_crawler = car_crawler
 
     make, model = (argv[1], argv[2])
-    area = "kerry"
-    sites = ["donedeal", "cbg", "adverts"]
+    area = "uk"
+    sites = ["cargiant.co.uk"]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, area, site)
@@ -21,7 +21,11 @@ if __name__ == '__main__':
         info = web_crawler.get_car_info(webPage)
 
         years = web_crawler.get_car_year(webPage)
-        prices = web_crawler.get_car_prices(info)
+        prices = web_crawler.get_car_prices(webPage)
+        for p in prices:
+            print(p)
+
+
        
 
 

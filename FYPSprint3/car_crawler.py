@@ -63,7 +63,7 @@ def get_web_page(url):
 
 
 def get_car_info(_page):
-    car_info = {'class': re.compile("desc|grid-card|details")}
+    car_info = {'class': re.compile("desc|grid-card|details|info")}
     info_list = []
     all_info = _page.findAll(attrs=car_info)
     for info in all_info:
@@ -85,10 +85,11 @@ def get_car_year(_page):
 
 def get_car_prices(web_page):
     car_prices = []
-    pattern = '(euro;\d+,\d+|\€\d{1,2},\d{3}|\d{1,2},\d{3})'
+    pattern = '(euro;\d+,\d+|\€\d{1,2},\d{3}|\d{1,2},\d{3}|\£\d{1,2},\d{3})'
     regex = re.compile(pattern)
     prices = re.findall(regex, str(web_page))
     for p in prices:
-        p = p.replace(',', '.')
-        car_prices.append(p)
+        if ',' in p:
+            p = p.replace(',', '.')
+            car_prices.append(p)
     return car_prices

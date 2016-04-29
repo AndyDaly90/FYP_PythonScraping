@@ -2,6 +2,7 @@ import urllib2
 import mechanize
 from unittest import TestCase
 import car_crawler
+
 __author__ = 'Andrew'
 
 
@@ -17,6 +18,10 @@ class TestCarCrawler(TestCase):
         self.assertEqual(expected_url, actual_url)
 
     def test_perform_google_search(self):
+        """
+        This test should raise a HTTP error when trying to perform a Google search with spaces.
+        :return: mechanize.HTTPError
+        """
         with self.assertRaises(mechanize.HTTPError):
             car_crawler.perform_google_search("audi", "a4", "parkerssss      uk", "kerry")
 
