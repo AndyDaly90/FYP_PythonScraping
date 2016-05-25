@@ -1,5 +1,5 @@
 from sys import argv
-import sys
+
 # -*- coding: utf-8 -*-
 import car_crawler
 if __name__ == '__main__':
@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     make, model = (argv[1], argv[2])
     area = "uk"
-    sites = ["cargiant.co.uk"]
+    sites = [""]
 
     for site in sites:
         searchResult = web_crawler.perform_google_search(make, model, area, site)
